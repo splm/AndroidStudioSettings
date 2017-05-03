@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/values/styles.xml" timestamp="1493261346745">
@@ -14,6 +14,9 @@
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/binding/BindingMarker.java" timestamp="1492741308597">
         <mark key="[" line="10" column="81" />
+      </file>
+      <file name="/a.dummy" timestamp="1493791705571">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/interactor/GetUnpayList.java" timestamp="1493362334927">
         <mark key="[" line="12" column="0" />
@@ -77,11 +80,9 @@
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" timestamp="1493265398436">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="107" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="41" column="14" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" timestamp="1493791845583">
+        <mark key="'" line="93" column="0" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
@@ -369,11 +370,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" timestamp="1493366540924">
-        <mark key="[" line="4" column="58" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" timestamp="1493791795144">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="5" column="58" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_checkbox.xml" timestamp="1493166400810">
         <mark key="[" line="18" column="17" />
@@ -587,18 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="35" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="171" column="7" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="21" column="8" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="37" column="22" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="173" column="7" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="0" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="106" column="12" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="47" column="57" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="40" column="8" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="178" column="32" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
-      <jump line="17" column="48" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/activity_login.xml" />
-      <jump line="13" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/login/activity/LoginActivity.java" />
       <jump line="183" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
       <jump line="29" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
       <jump line="20" column="8" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" />
@@ -687,10 +677,22 @@
       <jump line="84" column="3" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" />
       <jump line="125" column="4" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" />
       <jump line="29" column="57" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" />
+      <jump line="5" column="57" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" />
+      <jump line="7" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" />
+      <jump line="4" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" />
+      <jump line="44" column="27" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="37" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="50" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="60" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="68" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="101" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="100" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="96" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
+      <jump line="93" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzQvMjggMDAyOC4KICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gbUl0ZW1UZXh0cyA9IG5ldyBTdHJpbmdbXXsi0tG9ybWzt9EgIiwgIr3JxMm1s7fRIiwgIsn6u+63/s7xIiwKICAgICAgICAgICAgIs7StcS1s7fRIiwgIs60vcm1s7fRIn07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>payReq</text>
@@ -699,34 +701,35 @@
         <text>itemModel</text>
       </register>
       <register name="0" type="4">
-        <text>wx646f867f3a61352a</text>
+        <text>&quot;已缴党费 &quot;, &quot;缴纳党费&quot;, &quot;生活服务&quot;,
+            &quot;我的党费&quot;, &quot;未缴党费&quot;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzQvMjggMDAyOC4KICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gbUl0ZW1UZXh0cyA9IG5ldyBTdHJpbmdbXXsi0tG9ybWzt9EgIiwgIr3JxMm1s7fRIiwgIsn6u+63/s7xIiwKICAgICAgICAgICAgIs7StcS1s7fRIiwgIs60vcm1s7fRIn07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqKioqKioqKioqIiwgY2hlY2tlZExpc3Quc2l6ZSgpICsgIi0tLS0tOTk5OTk5OTkiKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzQvMjggMDAyOC4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZChvcmRlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqKioqKioqKioqIiwgY2hlY2tlZExpc3Quc2l6ZSgpICsgIi0tLS0tOTk5OTk5OTkiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVxKEJhc2VSZXEgYmFzZVJlcSkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVzcChCYXNlUmVzcCBiYXNlUmVzcCkgewoKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc2dBcGkuc2VuZFJlcShwYXlSZXEpOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZChvcmRlcklkKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgUGF5UmVxIHBheVJlcT1uZXcgUGF5UmVxKCk7CiAgICAgICAgcGF5UmVxLmFwcElkPSIiOwogICAgICAgIHBheVJlcS5wYXJ0bmVySWQ9IiI7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVxKEJhc2VSZXEgYmFzZVJlcSkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUmVzcChCYXNlUmVzcCBiYXNlUmVzcCkgewoKICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
