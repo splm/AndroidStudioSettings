@@ -210,6 +210,7 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="E:/caodi/soft/tools/Apktool/brut.apktool/apktool-cli/src/main/java/brut/apktool/Main.java" timestamp="1493949087711" />
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/PaymentMenuActivity.java" timestamp="1493350360720">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="44" column="0" />
@@ -794,6 +795,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
