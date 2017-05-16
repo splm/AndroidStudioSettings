@@ -287,10 +287,10 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/PayInfoDataFactory.java" timestamp="1494560925294">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/PayInfoDataFactory.java" timestamp="1494916042457">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/CheckboxLIstActivity.java" timestamp="1493166753920">
         <mark key="[" line="25" column="5" />
@@ -719,7 +719,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MDUtMTUgMDY6NDI6MDAuOTY3IDI4MTEtMjgxMS9jb20uamMuYW5kcm9pZC5hcHAuamdkaklJIEUvKioqKirXvLG4vNPU2HVybCoqKioqOiBodHRwczovL2lic2Jqc3Rhci5jY2IuY29tLmNuL0NDQklTL2NjYk1haW4/TUVSQ0hBTlRJRD0xMDUyMjAxOTM5OTAxMDcmUE9TSUQ9MDAxMjk1MjY2JkJSQU5DSElEPTIyMDAwMDAwMCZPUkRFUklEPTE0NTIwLTIwMTcwNTE1LTE0NDMzNiZQQVlNRU5UPTk4LjQwJkNVUkNPREU9MDEmVFhDT0RFPTUyMDEwMCZSRU1BUksxPTQ5LTUwJlJFTUFSSzI9JlRZUEU9MSZHQVRFV0FZPVcxJkNMSUVOVElQPTE3Mi4xNi4zLjc4JlJFR0lORk89XHU1MTVBXHU4RDM5XHU3RjM0XHU3RUIzJlBST0lORk89XHU1MTVBXHU4RDM5XHU3RjM0XHU3RUIzJk1BQz0zMDEzZmMxYjUzYTE5Y2I1ZDQyYzI0NzU3ZDMxOTlkOQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>void</text>
@@ -731,33 +731,33 @@
         <text>cashBG</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtVW5wYXlSZWNvcmRWaWV3TW9kZWwuc2V0T3JkZXJUeXBlKENvbnN0YW5zLlBBWV9CWV9KSUFOKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIWNoZWNrZWRMaXN0LmNvbnRhaW5zKHBhaWRJdGVtTW9kZWxzLmdldChwb3NpdGlvbikpKWRkCg==</text>
+        <text encoding="base64">ICAgICAgICBtVW5wYXlSZWNvcmRWaWV3TW9kZWwuc2V0T3JkZXJUeXBlKENvbnN0YW5zLlBBWV9CWV9KSUFOKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF5TGlzdEFkYXB0ZXIgcGF5TGlzdEFkYXB0ZXI9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWNoZWNrZWRMaXN0LmNvbnRhaW5zKHBhaWRJdGVtTW9kZWxzLmdldChwb3NpdGlvbikpKWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL21Ub3RhbCArPSBwYWlkSXRlbU1vZGVscy5nZXQocG9zaXRpb24pLmdldENhc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF5TGlzdEFkYXB0ZXIgcGF5TGlzdEFkYXB0ZXI9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL21Ub3RhbCArPSBwYWlkSXRlbU1vZGVscy5nZXQocG9zaXRpb24pLmdldENhc2goKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBCaWdEZWNpbWFsIGIyPW5ldyBCaWdEZWNpbWFsKEZsb2F0LnRvU3RyaW5nKG1Ub3RhbCkpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
  * Created by Administrator on 2017/4/21 0021.
  */</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dERpcmVjdGlvbj0ibG8iCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uamMuYW5kcm9pZC5qZ2RqSUkucGF5bWVudC5wcmVzZW50YXRpb24uZGF0YS5kYXRhc291cmNlLkNvbnN0YW5zLkNDQkFOS1BBQ0tBR0VOQU1FOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uamMuYW5kcm9pZC5qZ2RqSUkucGF5bWVudC5wcmVzZW50YXRpb24uZGF0YS5kYXRhc291cmNlLkNvbnN0YW5zLkNDQkFOS1BBQ0tBR0VOQU1FOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
