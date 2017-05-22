@@ -28,6 +28,11 @@
         <mark key="]" line="76" column="19" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/AndroidManifest.xml" timestamp="1495425935817">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_bottom_bar.xml" timestamp="1492739310859">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="20" column="51" />
@@ -36,13 +41,6 @@
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/FragmentCoreManager.java" timestamp="1495090774027">
-        <mark key="'" line="85" column="23" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="38" column="26" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/AdapterTriggerImpl.java" timestamp="1493027881403">
         <mark key="[" line="12" column="8" />
@@ -74,6 +72,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/Base/BaseActivity.java" timestamp="1495425578420">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/BasePaymentActivity.java" timestamp="1492741981147">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -86,12 +90,6 @@
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" timestamp="1495087493443">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="107" />
-        <mark key="^" line="39" column="14" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
@@ -139,20 +137,6 @@
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/interactor/GenerateOrders.java" timestamp="1493362261064">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/build.gradle" timestamp="1494982144419">
-        <mark key="'" line="78" column="71" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="123" column="66" />
-        <mark key="." line="123" column="3" />
-        <mark key="^" line="123" column="3" />
-      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/PayInfoDataCloud.java" timestamp="1494560179691">
         <mark key="[" line="33" column="34" />
         <mark key="]" line="33" column="63" />
@@ -188,6 +172,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/res/layout/activity_aidl.xml" timestamp="1495423006177">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+      </file>
       <file name="E:/caodi/work/DJ_II/formedittext/src/main/java/com/jc/formedittext/FormEditText.java" timestamp="1491962161647">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="41" />
@@ -211,6 +201,12 @@
         <mark key="]" line="119" column="57" />
         <mark key="." line="119" column="57" />
         <mark key="^" line="119" column="57" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/MainActivity.java" timestamp="1495423462275">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="E:/caodi/work/CustomTest/app/src/main/assets/xposed_init" timestamp="1492130074392">
         <mark key="[" line="1" column="29" />
@@ -240,13 +236,6 @@
         <mark key="[" line="13" column="79" />
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/pay_should_item.xml" timestamp="1493264050102">
-        <mark key="'" line="22" column="37" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="28" column="47" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="28" column="35" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/IPayInfoStore.java" timestamp="1493357747172">
         <mark key="[" line="13" column="17" />
@@ -380,6 +369,13 @@
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/AIDLActivity.java" timestamp="1495423995151">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/bindingutils/AbsDataBindingUtils.java" timestamp="1491446790043">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="3" column="0" />
@@ -396,13 +392,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/Constans.java" timestamp="1494556182644">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_checkbox.xml" timestamp="1493166400810">
         <mark key="[" line="18" column="17" />
@@ -432,18 +421,17 @@
         <mark key="." line="27" column="92" />
         <mark key="^" line="27" column="92" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/DemoConnection.java" timestamp="1495422933426">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/activity_main.xml" timestamp="1491553418699">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="27" column="49" />
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="49" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493079703243">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="74" column="16" />
-        <mark key="]" line="81" column="57" />
-        <mark key="^" line="81" column="57" />
-        <mark key="." line="81" column="57" />
       </file>
       <file name="E:/caodi/work/MyDevelopment/app/src/main/res/layout/activity_main.xml" timestamp="1495420036684">
         <mark key="[" line="6" column="0" />
@@ -553,20 +541,6 @@
       <file name="/Dummy.txt" timestamp="1495097159282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/ShouldPayViewModel.java" timestamp="1493089816065">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PaidItemModel.java" timestamp="1494577576747">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="27" />
-        <mark key="^" line="12" column="17" />
-      </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
         <mark key="[" line="60" column="10" />
         <mark key="]" line="73" column="10" />
@@ -622,12 +596,13 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/DemoService.java" timestamp="1495421733372">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/DemoService.java" timestamp="1495425805180">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="53" />
       </file>
+      <file name="E:/caodi/work/MyDevelopment/app/build/generated/source/aidl/debug/component/splm/me/mydevelopment/IMyAidlInterface.java" timestamp="1495426237277" />
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbarConfig.java" timestamp="1491537048800">
         <mark key="[" line="2" column="12" />
       </file>
@@ -636,7 +611,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495421697366">
+      <file name="/fragment.java" timestamp="1495423318798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
@@ -647,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="16" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/main_bottom_menu.xml" />
       <jump line="0" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/main_bottom_menu.xml" />
       <jump line="17" column="31" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
       <jump line="0" column="0" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
@@ -747,13 +721,14 @@
       <jump line="105" column="68" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/ui/EmptyListview.java" />
       <jump line="13" column="10" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/ui/EmptyListview.java" />
       <jump line="21" column="7" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_unpay_lis.xml" />
+      <jump line="23" column="24" filename="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/AIDLActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YW5kcm9pZDpvcmllbnRhdGlvbj0iaG8gIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ConstraintLayout</text>
+        <text>;Service()</text>
       </register>
       <register name="/" type="4">
         <text>itemModel</text>
@@ -762,31 +737,31 @@
         <text encoding="base64">ICAgICAgICB1bnBheUxpc0JpbmRpbmcudW5wYXlsaXN0THYuc2V0QWRhcHRlcihtVW5wYXlSZWNvcmRWaWV3TW9kZWwubU9BZGFwdGVyLmdldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kcm9pZDpvcmllbnRhdGlvbj0iaG8gIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCI=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW5kcm9pZDpvcmllbnRhdGlvbj0idiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KCiAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgoKICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImVuZHxjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9ItOmvcm1s7fRICC5srzGo7oiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiIC8+CgogICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcGF5X3RvdGFsIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJzdGFydHxjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkB7QHN0cmluZy9jYXNoX3NpZ25hbCt0b3RhbC5nZXQoKX0iCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzE4NjQ5OSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIwc3AiIC8+CiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CgogICAgICAgIDxMaXN0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3VucGF5bGlzdF9sdiIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIgLz4KCiAgICAgICAgPGNvbS5qYy5hbmRyb2lkLmpnZGpJSS5wYXltZW50LnByZXNlbnRhdGlvbi51aS5SYWRpb0J1dHRvbkxpbmVhcmxheW91dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3BheV90eXBlc19sbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoKICAgICAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxMGRwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ljb25fcGF5X2J5X3dlY2hhdCIgLz4KCiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KCiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9Is6i0MXWp7i2IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZzcCIgLz4KCiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9Isq508POotDF1qe4tqOssLLIq7Hjvd0iCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTJzcCIgLz4KICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgoKICAgICAgICAgICAgICAgIDxSYWRpb0J1dHRvbgogICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvcGF5bWVudGNoZWNrYm94IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvd2NfcmIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjEwZHAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIiAvPgogICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+CgogICAgICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIxMGRwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2ljb25fcGF5X2J5X3dlY2hhdCIgLz4KCiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KCiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9Ir2oyejS+NDQIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTZzcCIgLz4KCiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9Isq508O9qNDQ1qe4tqOssLLIq7Hjvd0iCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTJzcCIgLz4KICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgoKICAgICAgICAgICAgICAgIDxSYWRpb0J1dHRvbgogICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvcGF5bWVudGNoZWNrYm94IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvamlhbl9yYiIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iMTBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmNoZWNrZWQ9InRydWUiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIiAvPgogICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICA8L2NvbS5qYy5hbmRyb2lkLmpnZGpJSS5wYXltZW50LnByZXNlbnRhdGlvbi51aS5SYWRpb0J1dHRvbkxpbmVhcmxheW91dD4KCgogICAgICAgIDxCdXR0b24KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMTBkcCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSIjMjQ4NkNEIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNnNwIgogICAgICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9IkB7KHYpLT52aWV3TW9kZWwucGF5KHYpfSIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLIt8jP1qe4tiIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIiAvPgoKICAgIDwvTGluZWFyTGF5b3V0PgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaG91bGRwYXlCaW5kaW5nLnNob3VsZFBheUx2LnNldEFkYXB0ZXIobnVsbCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzUvMjIgMDAyMi4KICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIm9uQ2xpY2s6IMb0tq9BaWRst/7O8S4iKTsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQ9bmV3IEludGVudChBSURMQWN0aXZpdHkudGhpcyxEZW1vU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgICAgICBiaW5kU2VydmljZShpbnRlbnQsbmV3IERlbW9Db25uZWN0aW9uKCksIENvbnRleHQuQklORF9BVVRPX0NSRUFURSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzUvMjIgMDAyMi4KICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtc3RhCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG91bGRwYXlCaW5kaW5nLnNob3VsZFBheUx2LnNldEFkYXB0ZXIobnVsbCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzUvMjIgMDAyMi4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFRleHRWaWV3IGVtcHR5VmlldyA9IG5ldyBUZXh0VmlldyhnZXRBY3Rpdml0eSgpKTsKLy8gICAgICAgIExpbmVhckxheW91dC5MYXlvdXRQYXJhbXMgbGF5b3V0PW5ldyBMaW5lYXJMYXlvdXQuTGF5b3V0UGFyYW1zKExpbmVhckxheW91dC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULExpbmVhckxheW91dC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5UKTsKLy8gICAgICAgIGVtcHR5Vmlldy5zZXRMYXlvdXRQYXJhbXMobGF5b3V0KTsKLy8gICAgICAgIGVtcHR5Vmlldy5zZXRUZXh0KCLDu9PQyv2+3SEiKTsKLy8gICAgICAgIGVtcHR5Vmlldy5zZXRHcmF2aXR5KEdyYXZpdHkuQ0VOVEVSKTsKLy8gICAgICAgIGVtcHR5Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuR09ORSk7Ci8vICAgICAgICAoKFZpZXdHcm91cClwYXlMaXNCaW5kaW5nLnBhaWRsaXN0THYuZ2V0UGFyZW50KCkpLmFkZFZpZXcoZW1wdHlWaWV3LGxheW91dCk7Ci8vICAgICAgICBwYXlMaXNCaW5kaW5nLnBhaWRsaXN0THYuc2V0RW1wdHlWaWV3KGVtcHR5Vmlldyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLnRyYW5zaXRpb24uRmFkZS5JTjsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
