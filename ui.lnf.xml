@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Ubuntu Light" />
+    <option name="FONT_FACE" value="Ubuntu" />
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
