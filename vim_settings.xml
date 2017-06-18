@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/values/styles.xml" timestamp="1493261346745">
@@ -9,22 +9,28 @@
         <mark key="^" line="104" column="7" />
         <mark key="." line="104" column="7" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutService.java" timestamp="1497356321426">
+        <mark key="[" line="10" column="33" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidBaseViewModel.java" timestamp="1492741547174">
         <mark key="[" line="8" column="30" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/read/data/datasource/BookDataStoreCloud.java" timestamp="1497429967385">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="71" column="44" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/binding/BindingMarker.java" timestamp="1492741308597">
         <mark key="[" line="10" column="81" />
       </file>
-      <file name="/a.dummy" timestamp="1493791705571">
+      <file name="/a.dummy" timestamp="1497356584985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/interactor/GetUnpayList.java" timestamp="1493362334927">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="39" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/user/work/FirstApplication/app/src/main/java/me/splm/app/firstapplication/Constans.java" timestamp="1497768399938">
-        <mark key="[" line="6" column="23" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_pay_main.xml" timestamp="1492744676484">
         <mark key="[" line="11" column="0" />
@@ -42,8 +48,20 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/ServiceUtils.java" timestamp="1497575740161">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/aidl/me/splm/app/autopunchout/ITransDataaidlInterface.aidl" timestamp="1497584985231">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/AdapterTriggerImpl.java" timestamp="1493027881403">
         <mark key="[" line="12" column="8" />
@@ -94,6 +112,11 @@
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/res/xml/accessibility.xml" timestamp="1497320768984">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
       </file>
@@ -113,6 +136,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/view/fragment/FragmentResource.java" timestamp="1497431805189">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/RecylerViewActivity.java" timestamp="1492659215804">
         <mark key="[" line="18" column="0" />
@@ -139,6 +168,21 @@
         <mark key="]" line="212" column="48" />
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497581801501">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" timestamp="1497411017428">
+        <mark key="'" line="142" column="6" />
+        <mark key="[" line="1356" column="11" />
+        <mark key="]" line="1356" column="37" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/build.gradle" timestamp="1497488878119">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="119" column="59" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/PayInfoDataCloud.java" timestamp="1495431310640">
         <mark key="[" line="82" column="0" />
@@ -192,6 +236,13 @@
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="35" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" timestamp="1497583676750">
+        <mark key="e" line="50" column="18" />
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/MainViewModel.java" timestamp="1492502737130">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="31" column="5" />
@@ -209,6 +260,11 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/library_zhy_circlemenu/src/main/java/library/zhy/circlemenu/CircleMenuLayout.java" timestamp="1497489572184">
+        <mark key="'" line="715" column="40" />
+        <mark key="[" line="715" column="0" />
+        <mark key="]" line="741" column="5" />
       </file>
       <file name="E:/caodi/work/CustomTest/app/src/main/assets/xposed_init" timestamp="1492130074392">
         <mark key="[" line="1" column="29" />
@@ -239,6 +295,12 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/widget/Space.java" timestamp="1497325942387">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/IPayInfoStore.java" timestamp="1493357747172">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
@@ -251,17 +313,23 @@
         <mark key="." line="39" column="37" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/aidl/me/splm/app/autopunchout/TransDataInterfaceAIDL.aidl" timestamp="1497583030717">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/PaidListActivity.java" timestamp="1494295790338">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="77" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_unpay_lis.xml" timestamp="1495097167406">
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_unpay_lis.xml" timestamp="1497326600429">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
         <mark key="^" line="53" column="40" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_should_pay.xml" timestamp="1492742401480">
         <mark key="[" line="15" column="0" />
@@ -313,11 +381,17 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/net/IPayInfoService.java" timestamp="1493360456588">
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/net/IPayInfoService.java" timestamp="1497490337097">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="88" />
         <mark key="." line="20" column="88" />
         <mark key="^" line="20" column="88" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/README.md" timestamp="1497403464102">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/IAdapterFactory.java" timestamp="1492501182555">
         <mark key="[" line="8" column="30" />
@@ -328,10 +402,10 @@
       <file name="E:/caodi/work/ComponetLibDemo/app/build/intermediates/data-binding-layout-out/debug/layout/activity_base.xml" timestamp="1492739332396">
         <mark key="[" line="28" column="29" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/main/presentation/view/activity/SplashActivity.java" timestamp="1493003838688">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/main/presentation/view/activity/SplashActivity.java" timestamp="1497326224884">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/ItemModel.java" timestamp="1492482433964">
         <mark key="[" line="8" column="24" />
@@ -390,15 +464,16 @@
         <mark key="." line="41" column="67" />
         <mark key="^" line="41" column="78" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/Utils/OpenSysUI.java" timestamp="1497575587977">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/content_main.xml" timestamp="1492667983451">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/user/work/FirstApplication/app/src/main/java/me/splm/app/firstapplication/MainActivity.java" timestamp="1496149563059">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_checkbox.xml" timestamp="1493166400810">
         <mark key="[" line="18" column="17" />
@@ -415,6 +490,11 @@
         <mark key="[" line="15" column="55" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/user/work/FirstApplication/app/src/main/java/me/splm/app/firstapplication/MainActivity.java" timestamp="1496149563059">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/content_main.xml" timestamp="1491466314418">
         <mark key="[" line="11" column="43" />
@@ -444,6 +524,19 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutServiceBroadcast.java" timestamp="1497585016038">
+        <mark key="[" line="46" column="76" />
+        <mark key="]" line="46" column="77" />
+        <mark key="." line="46" column="77" />
+        <mark key="^" line="46" column="77" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/MainActivity.java" timestamp="1497575640381">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="37" column="62" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
       </file>
       <file name="E:/caodi/work/DJ_II/build.gradle" timestamp="1491528644508">
         <mark key="[" line="5" column="0" />
@@ -548,11 +641,11 @@
       <file name="/Dummy.txt" timestamp="1495097159282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/user/work/FirstApplication/app/src/main/AndroidManifest.xml" timestamp="1497768738861">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="36" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/res/layout/activity_main.xml" timestamp="1497508611501">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
         <mark key="[" line="60" column="10" />
@@ -571,11 +664,6 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/user/work/FirstApplication/app/src/main/java/me/splm/app/firstapplication/LongRuninngService.java" timestamp="1497768375941">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/MyListAdapter.java" timestamp="1493027506603">
         <mark key="[" line="16" column="0" />
@@ -620,6 +708,17 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="53" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/build.gradle" timestamp="1497431592196">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/debug/Constans.java" timestamp="1497575230575">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbarConfig.java" timestamp="1491537048800">
         <mark key="[" line="2" column="12" />
       </file>
@@ -628,7 +727,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1497768394542">
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/AndroidManifest.xml" timestamp="1497496606828">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1497575495909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
@@ -639,16 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/main_bottom_menu.xml" />
-      <jump line="17" column="31" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="0" column="0" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="11" column="12" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="21" column="36" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="110" column="16" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="10" column="0" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="74" column="27" filename="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_footer_bar.xml" />
-      <jump line="5" column="8" filename="E:/caodi/work/DJ_II/app/src/main/AndroidManifest.xml" />
-      <jump line="25" column="0" filename="E:/caodi/work/DJ_II/app/src/main/AndroidManifest.xml" />
       <jump line="45" column="68" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
       <jump line="31" column="32" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
       <jump line="110" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
@@ -739,55 +835,65 @@
       <jump line="13" column="10" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/ui/EmptyListview.java" />
       <jump line="21" column="7" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_unpay_lis.xml" />
       <jump line="23" column="24" filename="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/AIDLActivity.java" />
+      <jump line="47" column="53" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
+      <jump line="20" column="8" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" />
+      <jump line="142" column="6" filename="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" />
+      <jump line="22" column="15" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
+      <jump line="0" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
+      <jump line="31" column="13" filename="E:/caodi/work/jgdj_II/library_zhy_circlemenu/src/main/java/library/zhy/circlemenu/CircleMenuLayout.java" />
+      <jump line="715" column="40" filename="E:/caodi/work/jgdj_II/library_zhy_circlemenu/src/main/java/library/zhy/circlemenu/CircleMenuLayout.java" />
+      <jump line="28" column="7" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/MainActivity.java" />
+      <jump line="34" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/AndroidManifest.xml" />
+      <jump line="22" column="21" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutServiceBroadcast.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEBJbnREZWYodmFsdWUgPSB7U2VydmljZS5TVEFSVF9GTEFHX1JFREVMSVZFUlksIFNlcnZpY2UuU1RBUlRfRkxBR19SRVRSWX0sIGZsYWcgPSB0cnVlKSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEBJbnREZWYodmFsdWUgPSB7U2VydmljZS5TVEFSVF9GTEFHX1JFREVMSVZFUlksIFNlcnZpY2UuU1RBUlRfRkxBR19SRVRSWX0sIGZsYWcgPSB0cnVlKSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>itemModel</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1bnBheUxpc0JpbmRpbmcudW5wYXlsaXN0THYuc2V0QWRhcHRlcihtVW5wYXlSZWNvcmRWaWV3TW9kZWwubU9BZGFwdGVyLmdldCgpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBmaW5kVGFnQ2xpY2soU3RyaW5nIHRhZyl7CiAgICAgICAgQWNjZXNzaWJpbGl0eU5vZGVJbmZvIG5vZGVJbmZvID0gZ2V0Um9vdEluQWN0aXZlV2luZG93KCk7CiAgICAgICAgTG9nLmUoVEFHLCAiZmluZFRhZ0NsaWNrOiAiKzEgKTsKICAgICAgICBMaXN0PEFjY2Vzc2liaWxpdHlOb2RlSW5mbz4gbGlzdCA9IG5vZGVJbmZvLmZpbmRBY2Nlc3NpYmlsaXR5Tm9kZUluZm9zQnlUZXh0KHRhZyk7CiAgICAgICAgaWYobGlzdD09bnVsbHx8bGlzdC5pc0VtcHR5KCkpewogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6IMO709Cytte9tb3Ev7Hqv9i8/iIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIExvZy5lKFRBRywgImZpbmRUYWdDbGljazogIisyICk7CiAgICAgICAgZm9yKEFjY2Vzc2liaWxpdHlOb2RlSW5mbyBuOmxpc3QpewogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6ICIrbi5nZXRDbGFzc05hbWUoKSsiKioqKioqKioiK24uZ2V0VGV4dCgpKyIqKioqKioqKioqIGlzQ2xja2FibGU9IituLmlzQ2xpY2thYmxlKCkpOwogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6ICIrbi5nZXRQYXJlbnQoKS5nZXRDbGFzc05hbWUoKSsiKioqKioqKioqKioqKioiK24uZ2V0UGFyZW50KCkuaXNDbGlja2FibGUoKSk7CiAgICAgICAgICAgIGlmKG4uaXNDbGlja2FibGUoKSl7CiAgICAgICAgICAgICAgICBuLnBlcmZvcm1BY3Rpb24oQWNjZXNzaWJpbGl0eU5vZGVJbmZvLkFDVElPTl9DTElDSyk7CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgbi5nZXRQYXJlbnQoKS5wZXJmb3JtQWN0aW9uKEFjY2Vzc2liaWxpdHlOb2RlSW5mby5BQ1RJT05fQ0xJQ0spOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExvZy5lKFRBRywgImZpbmRUYWdDbGljazogIiszICk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kVmlld0J5SWQoUi5pZC4pICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpjUmVzcG9uc2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBzZW5kRGF0YShPYmplY3QgZGF0YSxTdHJpbmcgdGFnLGludCBmbGFnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVRyYW5zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzUvMjIgMDAyMi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBjb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZUNvbm5lY3Rpb24gbUlubmVyQ29ubjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIm9uQ2xpY2s6IO+/ve+/ve+/ve+/vUFpZGzvv73vv73vv73vv70uIik7CiAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50PW5ldyBJbnRlbnQoQUlETEFjdGl2aXR5LnRoaXMsRGVtb1NlcnZpY2UuY2xhc3MpOwogICAgICAgICAgICAgICAgYmluZFNlcnZpY2UoaW50ZW50LG5ldyBEZW1vQ29ubmVjdGlvbigpLCBDb250ZXh0LkJJTkRfQVVUT19DUkVBVEUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtSW5uZXJDb25uPW5ldyBJbm5lckNvbm5PZkxvbmdydW5TZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzUvMjIgMDAyMi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVRyYW5zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc3RhCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjb25uZWN0QmV0d2VlbigpewogICAgICAgIGJpbmRTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcyxFbnZlbG9wZVNlcnZpY2UuY2xhc3MpLG1Jbm5lckNvbm4sIENvbnRleHQuQklORF9JTVBPUlRBTlQpOwogICAgfQogICAgCiAgICBwcml2YXRlIGNsYXNzIElubmVyQ29ubk9mTG9uZ3J1blNlcnZpY2UgaW1wbGVtZW50cyBTZXJ2aWNlQ29ubmVjdGlvbnsKICAgICAgICBTdHJpbmcgZGF0YTsKICAgICAgICBTdHJpbmcgdGFnOwogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZUNvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUsIElCaW5kZXIgc2VydmljZSkgewogICAgICAgICAgICBJVHJhbnMgICAgCiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblNlcnZpY2VEaXNjb25uZWN0ZWQoQ29tcG9uZW50TmFtZSBuYW1lKSB7CgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemModel</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>itemModel</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -797,6 +903,7 @@
         <entry>setCOntentView</entry>
         <entry>setContentView</entry>
         <entry>itemModel</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>41 p</entry>
