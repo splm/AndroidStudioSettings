@@ -169,12 +169,11 @@
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497835619520">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="103" column="61" />
-        <mark key="]" line="103" column="56" />
-        <mark key="^" line="103" column="56" />
-        <mark key="." line="103" column="56" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497854720814">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="125" column="17" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" timestamp="1497411017428">
         <mark key="'" line="142" column="6" />
@@ -849,59 +848,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>nodeList</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgSW5uZXJDb25uT2ZMb25ncnVuU2VydmljZSBpbXBsZW1lbnRzIFNlcnZpY2VDb25uZWN0aW9uIHsKICAgICAgICBTdHJpbmcgZGF0YTsKICAgICAgICBTdHJpbmcgdGFnOwoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblNlcnZpY2VDb25uZWN0ZWQoQ29tcG9uZW50TmFtZSBuYW1lLCBJQmluZGVyIHNlcnZpY2UpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIElUcmFuc0RhdGFhaWRsSW50ZXJmYWNlLlN0dWIuYXNJbnRlcmZhY2Uoc2VydmljZSkuc2VuZERhdGEoMjAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoUmVtb3RlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZURpc2Nvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUpIHsKCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlzdCA9PSBudWxsIHx8IGxpc3QuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY2Nlc3NpYmlsaXR5Tm9kZUluZm8gbiA9IGxpc3QuZ2V0KDApOwogICAgICAgIGlmIChuICE9IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG47CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgSW5uZXJDb25uT2ZMb25ncnVuU2VydmljZSBpbXBsZW1lbnRzIFNlcnZpY2VDb25uZWN0aW9uIHsKICAgICAgICBTdHJpbmcgZGF0YTsKICAgICAgICBTdHJpbmcgdGFnOwoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblNlcnZpY2VDb25uZWN0ZWQoQ29tcG9uZW50TmFtZSBuYW1lLCBJQmluZGVyIHNlcnZpY2UpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIElUcmFuc0RhdGFhaWRsSW50ZXJmYWNlLlN0dWIuYXNJbnRlcmZhY2Uoc2VydmljZSkuc2VuZERhdGEoMjAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoUmVtb3RlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZURpc2Nvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUpIHsKCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlzdCA9PSBudWxsIHx8IGxpc3QuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>new Handler() {
-        @Override
-        public void handleMessage(Message msg) {
-            Message msgToClient = Message.obtain(msg);
-            switch (msg.what) {
-                case 1:
-                    msgToClient.arg1 = msg.arg1 + msg.arg2;
-                    try {
-                        msg.replyTo.send(msgToClient);
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
-                    break;
-            }
-            super.handleMessage(msg);
-        }
-    });</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEFjY2Vzc2liaWxpdHlOb2RlSW5mbz4gbGlzdCA9IG5vZGVJbmZvLmZpbmRBY2Nlc3NpYmlsaXR5Tm9kZUluZm9zQnlUZXh0KHRhZyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZSBjbGllbnRNc2c9TWVzc2FnZS5vCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQ2xpZW50SGFuZGxlciBleHRlbmRzIEhhbmRsZXIgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgc3VwZXIuaGFuZGxlTWVzc2FnZShtc2cpOwogICAgICAgICAgICBNZXNzYWdlIGNsaWVudE1zZz1NZXNzYWdlLm9iCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
