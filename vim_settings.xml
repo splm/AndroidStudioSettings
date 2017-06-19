@@ -169,11 +169,10 @@
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497581801501">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497833878655">
+        <mark key="[" line="102" column="77" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" timestamp="1497411017428">
         <mark key="'" line="142" column="6" />
@@ -236,7 +235,7 @@
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" timestamp="1497583676750">
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" timestamp="1497833544065">
         <mark key="e" line="50" column="18" />
         <mark key="'" line="51" column="8" />
         <mark key="[" line="20" column="0" />
@@ -525,9 +524,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutServiceBroadcast.java" timestamp="1497585016038">
-        <mark key="[" line="46" column="76" />
-        <mark key="]" line="46" column="77" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutServiceBroadcast.java" timestamp="1497833692816">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="56" column="4" />
         <mark key="." line="46" column="77" />
         <mark key="^" line="46" column="77" />
       </file>
@@ -745,8 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="68" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
-      <jump line="31" column="32" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
       <jump line="110" column="0" filename="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/edittext/FormEditText.java" />
       <jump line="273" column="48" filename="E:/caodi/soft/android-sdk-windows/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/android/databinding/DataBindingUtil.java" />
       <jump line="275" column="17" filename="E:/caodi/soft/android-sdk-windows/extras/android/m2repository/com/android/databinding/library/1.3.1/library-1.3.1-sources.jar!/android/databinding/DataBindingUtil.java" />
@@ -845,10 +842,12 @@
       <jump line="28" column="7" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/MainActivity.java" />
       <jump line="34" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/AndroidManifest.xml" />
       <jump line="22" column="21" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutServiceBroadcast.java" />
+      <jump line="91" column="57" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
+      <jump line="3" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZSBjbGllbnRNc2c9TWVzc2FnZS5vCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -857,34 +856,34 @@
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBmaW5kVGFnQ2xpY2soU3RyaW5nIHRhZyl7CiAgICAgICAgQWNjZXNzaWJpbGl0eU5vZGVJbmZvIG5vZGVJbmZvID0gZ2V0Um9vdEluQWN0aXZlV2luZG93KCk7CiAgICAgICAgTG9nLmUoVEFHLCAiZmluZFRhZ0NsaWNrOiAiKzEgKTsKICAgICAgICBMaXN0PEFjY2Vzc2liaWxpdHlOb2RlSW5mbz4gbGlzdCA9IG5vZGVJbmZvLmZpbmRBY2Nlc3NpYmlsaXR5Tm9kZUluZm9zQnlUZXh0KHRhZyk7CiAgICAgICAgaWYobGlzdD09bnVsbHx8bGlzdC5pc0VtcHR5KCkpewogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6IMO709Cytte9tb3Ev7Hqv9i8/iIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIExvZy5lKFRBRywgImZpbmRUYWdDbGljazogIisyICk7CiAgICAgICAgZm9yKEFjY2Vzc2liaWxpdHlOb2RlSW5mbyBuOmxpc3QpewogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6ICIrbi5nZXRDbGFzc05hbWUoKSsiKioqKioqKioiK24uZ2V0VGV4dCgpKyIqKioqKioqKioqIGlzQ2xja2FibGU9IituLmlzQ2xpY2thYmxlKCkpOwogICAgICAgICAgICBMb2cuZShUQUcsICJmaW5kVGFnQ2xpY2s6ICIrbi5nZXRQYXJlbnQoKS5nZXRDbGFzc05hbWUoKSsiKioqKioqKioqKioqKioiK24uZ2V0UGFyZW50KCkuaXNDbGlja2FibGUoKSk7CiAgICAgICAgICAgIGlmKG4uaXNDbGlja2FibGUoKSl7CiAgICAgICAgICAgICAgICBuLnBlcmZvcm1BY3Rpb24oQWNjZXNzaWJpbGl0eU5vZGVJbmZvLkFDVElPTl9DTElDSyk7CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgbi5nZXRQYXJlbnQoKS5wZXJmb3JtQWN0aW9uKEFjY2Vzc2liaWxpdHlOb2RlSW5mby5BQ1RJT05fQ0xJQ0spOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExvZy5lKFRBRywgImZpbmRUYWdDbGljazogIiszICk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgSW5uZXJDb25uT2ZMb25ncnVuU2VydmljZSBpbXBsZW1lbnRzIFNlcnZpY2VDb25uZWN0aW9uIHsKICAgICAgICBTdHJpbmcgZGF0YTsKICAgICAgICBTdHJpbmcgdGFnOwoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblNlcnZpY2VDb25uZWN0ZWQoQ29tcG9uZW50TmFtZSBuYW1lLCBJQmluZGVyIHNlcnZpY2UpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIElUcmFuc0RhdGFhaWRsSW50ZXJmYWNlLlN0dWIuYXNJbnRlcmZhY2Uoc2VydmljZSkuc2VuZERhdGEoMjAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoUmVtb3RlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZURpc2Nvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUpIHsKCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZSBjbGllbnRNc2c9TWVzc2FnZS5vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBzZW5kRGF0YShPYmplY3QgZGF0YSxTdHJpbmcgdGFnLGludCBmbGFnKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgQ2xpZW50SGFuZGxlciBleHRlbmRzIEhhbmRsZXIgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgc3VwZXIuaGFuZGxlTWVzc2FnZShtc2cpOwogICAgICAgICAgICBNZXNzYWdlIGNsaWVudE1zZz1NZXNzYWdlLm9iCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVRyYW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBzZW5kRGF0YShPYmplY3QgZGF0YSxTdHJpbmcgdGFnLGludCBmbGFnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZUNvbm5lY3Rpb24gbUlubmVyQ29ubjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtSW5uZXJDb25uPW5ldyBJbm5lckNvbm5PZkxvbmdydW5TZXJ2aWNlKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSVRyYW5zCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVHJhbnNECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb24K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZUNvbm5lY3Rpb24gbUlubmVyQ29ubjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjb25uZWN0QmV0d2VlbigpewogICAgICAgIGJpbmRTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcyxFbnZlbG9wZVNlcnZpY2UuY2xhc3MpLG1Jbm5lckNvbm4sIENvbnRleHQuQklORF9JTVBPUlRBTlQpOwogICAgfQogICAgCiAgICBwcml2YXRlIGNsYXNzIElubmVyQ29ubk9mTG9uZ3J1blNlcnZpY2UgaW1wbGVtZW50cyBTZXJ2aWNlQ29ubmVjdGlvbnsKICAgICAgICBTdHJpbmcgZGF0YTsKICAgICAgICBTdHJpbmcgdGFnOwogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uU2VydmljZUNvbm5lY3RlZChDb21wb25lbnROYW1lIG5hbWUsIElCaW5kZXIgc2VydmljZSkgewogICAgICAgICAgICBJVHJhbnMgICAgCiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblNlcnZpY2VEaXNjb25uZWN0ZWQoQ29tcG9uZW50TmFtZSBuYW1lKSB7CgogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtSW5uZXJDb25uPW5ldyBJbm5lckNvbm5PZkxvbmdydW5TZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
