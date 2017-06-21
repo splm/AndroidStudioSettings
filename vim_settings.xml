@@ -48,11 +48,10 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/ServiceUtils.java" timestamp="1498006617510">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="53" column="6" />
-        <mark key="." line="53" column="6" />
-        <mark key="^" line="53" column="6" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/ServiceUtils.java" timestamp="1498007822918">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
@@ -241,11 +240,12 @@
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" timestamp="1497938046368">
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/LongRunningService.java" timestamp="1498007802039">
         <mark key="e" line="43" column="18" />
-        <mark key="[" line="43" column="70" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/MainViewModel.java" timestamp="1492502737130">
         <mark key="[" line="24" column="3" />
@@ -851,7 +851,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
         <text>Log.e(TAG, &quot;onAccessibilityEvent: 包含目标字符串&quot;);</text>
@@ -860,15 +860,32 @@
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlVXRpbHMuYnVpbGRBbGFybWFuZ2VyKHRoaXMsIHN0YXJ0KTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="2" type="4">
+        <text>//        long time = 6 * 1000 * 10;
+//        Calendar calendar = Calendar.getInstance();
+//        calendar.set(Calendar.HOUR_OF_DAY, 8);
+//        calendar.set(Calendar.MINUTE, 0);
+//        calendar.set(Calendar.SECOND, 1);
+//        calendar.set(Calendar.MILLISECOND, 0);
+//        time = calendar.getTimeInMillis();
+//        long triggerTime = SystemClock.elapsedRealtime();
+//        long triggerTime = System.currentTimeMillis();//</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG9uQmluZGRkCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>public class ServerService extends Service{
         
         private Messenger messenger=new Messenger(new Handler(){
@@ -887,7 +904,7 @@
         }
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>private class InnerServiceConnection implements ServiceConnection {
         @Override
         public void onServiceConnected(ComponentName name, IBinder service) {
@@ -901,20 +918,11 @@
         }
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgInJ1bjog0dOz2da00NC/qsq8Iik7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
