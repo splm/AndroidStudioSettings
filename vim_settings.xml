@@ -48,11 +48,11 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/ServiceUtils.java" timestamp="1497940750234">
-        <mark key="[" line="51" column="67" />
-        <mark key="]" line="51" column="66" />
-        <mark key="." line="51" column="66" />
-        <mark key="^" line="51" column="66" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/ServiceUtils.java" timestamp="1498006617510">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
+        <mark key="^" line="53" column="6" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
@@ -169,12 +169,11 @@
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497929485562">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="32" column="64" />
-        <mark key="." line="150" column="0" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" timestamp="1497944598381">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" timestamp="1497411017428">
         <mark key="'" line="142" column="6" />
@@ -536,12 +535,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/MainActivity.java" timestamp="1497941069380">
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/MainActivity.java" timestamp="1497944576782">
         <mark key="'" line="33" column="7" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="4" />
+        <mark key="." line="50" column="4" />
       </file>
       <file name="E:/caodi/work/DJ_II/build.gradle" timestamp="1491528644508">
         <mark key="[" line="5" column="0" />
@@ -852,11 +850,11 @@
       <jump line="76" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrap_content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>Log.e(TAG, &quot;onAccessibilityEvent: 包含目标字符串&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
@@ -865,31 +863,58 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBbGFybU1hbmFnZXIgbWFuYWdlciA9IChBbGFybU1hbmFnZXIpIGdldFN5c3RlbVNlcnZpY2UoQUxBUk1fU0VSVklDRSk7CiAgICAgICAgbG9uZyB0aW1lID0gNiAqIDEwMDAgKiAxMDsKICAgICAgICBDYWxlbmRhciBjYWxlbmRhciA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLkhPVVJfT0ZfREFZLCAxMyk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTlVURSwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKTsKLy8gICAgICAgIHRpbWUgPSBjYWxlbmRhci5nZXRUaW1lSW5NaWxsaXMoKTsKICAgICAgICBsb25nIHRyaWdnZXJUaW1lID0gU3lzdGVtQ2xvY2suZWxhcHNlZFJlYWx0aW1lKCk7Ci8vICAgICAgICBsb25nIHRyaWdnZXJUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgSW50ZW50IGludGVudDIgPSBuZXcgSW50ZW50KHRoaXMsIFN0YXJ0UHVuY2hvdXRTZXJ2aWNlQnJvYWRjYXN0LmNsYXNzKTsKICAgICAgICBQZW5kaW5nSW50ZW50IHBpID0gUGVuZGluZ0ludGVudC5nZXRCcm9hZGNhc3QodGhpcywgMCwgaW50ZW50MiwgMCk7CiAgICAgICAgbWFuYWdlci5zZXRFeGFjdChBbGFybU1hbmFnZXIuRUxBUFNFRF9SRUFMVElNRV9XQUtFVVAsIHRyaWdnZXJUaW1lICsgdGltZSwgcGkpOwogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5LSVRLQVQpIHsKICAgICAgICAgICAgbWFuYWdlci5zZXRFeGFjdChBbGFybU1hbmFnZXIuUlRDX1dBS0VVUCwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkrdGltZSwgcGkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG1hbmFnZXIuc2V0UmVwZWF0aW5nKEFsYXJtTWFuYWdlci5SVENfV0FLRVVQLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSwgdGltZSwgcGkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uQmluZGRkCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="3" type="4">
+        <text>public class ServerService extends Service{
+        
+        private Messenger messenger=new Messenger(new Handler(){
+            @Override
+            public void handleMessage(Message msg) {
+                Log.e(&quot;*************&quot;, &quot;handleMessage: 来自服务端88888888888888&quot;);
+                super.handleMessage(msg);
+            }
+        });
+        
+        @Nullable
+        @Override
+        public IBinder onBind(Intent intent) {
+            
+            return messenger.getBinder();
+        }
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hbmFnZXIuc2V0UmVwZWF0aW5nKEFsYXJtTWFuYWdlci5FTEFQU0VEX1JFQUxUSU1FLCB0cmlnZ2VyVGltZSwgdGltZSwgcGkpOwo=</text>
+      <register name="4" type="4">
+        <text>private class InnerServiceConnection implements ServiceConnection {
+        @Override
+        public void onServiceConnected(ComponentName name, IBinder service) {
+            Messenger serverMessenger=new Messenger(service);
+            Message toServerMsg=Message.obtain();
+        }
+
+        @Override
+        public void onServiceDisconnected(ComponentName name) {
+
+        }
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5LSVRLQVQpIHsKLy8gICAgICAgICAgICBtYW5hZ2VyLnNldFJlKEFsYXJtTWFuYWdlci5SVENfV0FLRVVQLCB0cmlnZ2VyVGltZSt0aW1lLCBwaSk7Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgfVYK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLnNldChBbGFybU1hbmFnZXIuUlRDX1dBS0VVUCwgdHJpZ2dlclRpbWUrdGltZSwgcGkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS93ZWxjb21lIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvd2VsY29tZSJkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgInJ1bjog0dOz2da00NC/qsq8Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
