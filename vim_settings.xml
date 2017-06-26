@@ -116,6 +116,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/PayMainMenuFragment.java" timestamp="1498463224564">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="80" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
       </file>
@@ -173,15 +178,6 @@
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
-      </file>
-      <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/view/accessibility/AccessibilityNodeInfo.java" timestamp="1497411017428">
-        <mark key="'" line="142" column="6" />
-        <mark key="[" line="1356" column="11" />
-        <mark key="]" line="1356" column="37" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/build.gradle" timestamp="1497488878119">
-        <mark key="[" line="113" column="4" />
-        <mark key="]" line="119" column="59" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/PayInfoDataCloud.java" timestamp="1495431310640">
         <mark key="[" line="82" column="0" />
@@ -265,11 +261,6 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/library_zhy_circlemenu/src/main/java/library/zhy/circlemenu/CircleMenuLayout.java" timestamp="1497489572184">
-        <mark key="'" line="715" column="40" />
-        <mark key="[" line="715" column="0" />
-        <mark key="]" line="741" column="5" />
-      </file>
       <file name="E:/caodi/work/CustomTest/app/src/main/assets/xposed_init" timestamp="1492130074392">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="49" />
@@ -311,7 +302,6 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/app/AlarmManager.java" timestamp="1497939982884" />
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/title_payment.xml" timestamp="1493264806206">
         <mark key="[" line="39" column="37" />
         <mark key="]" line="39" column="37" />
@@ -403,6 +393,12 @@
         <mark key="]" line="11" column="11" />
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
+      </file>
+      <file name="E:/caodi/soft/Android/sdk/sources/android-23/android/widget/ImageView.java" timestamp="1498463322325">
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="4" />
+        <mark key="^" line="140" column="4" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/build/intermediates/data-binding-layout-out/debug/layout/activity_base.xml" timestamp="1492739332396">
         <mark key="[" line="28" column="29" />
@@ -852,7 +848,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChQYXltZW50TWVudUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5zZXRUaXRsZWJhckxlZnRWaXNpYmxlKFZpZXcuR09ORSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Log.e(TAG, &quot;onAccessibilityEvent: 包含目标字符串&quot;);</text>
@@ -861,7 +857,7 @@
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlVXRpbHMuYnVpbGRBbGFybWFuZ2VyKHRoaXMsIHN0YXJ0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChQYXltZW50TWVudUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5zZXRUaXRsZWJhckxlZnRWaXNpYmxlKFZpZXcuR09ORSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGQK</text>
