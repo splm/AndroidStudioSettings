@@ -42,6 +42,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/IFactory.java" timestamp="1499221220507">
+        <mark key="[" line="7" column="41" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_bottom_bar.xml" timestamp="1492739310859">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="20" column="51" />
@@ -847,8 +850,10 @@
       <jump line="76" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKChQYXltZW50TWVudUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5zZXRUaXRsZWJhckxlZnRWaXNpYmxlKFZpZXcuR09ORSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>catch(InstantiationException ine){
+            
+        }</text>
       </register>
       <register name="-" type="4">
         <text>Log.e(TAG, &quot;onAccessibilityEvent: 包含目标字符串&quot;);</text>
@@ -859,10 +864,24 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKChQYXltZW50TWVudUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5zZXRUaXRsZWJhckxlZnRWaXNpYmxlKFZpZXcuR09ORSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="1" type="4">
+        <text>catch(InstantiationException ine){
+            
+        }</text>
       </register>
       <register name="2" type="4">
+        <text>@Override
+    public IPaymentFactory createFactoryOfNodes() {
+        return null;
+    }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzcvNSAwMDA1LgogKi8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="5" type="4">
         <text>//        long time = 6 * 1000 * 10;
 //        Calendar calendar = Calendar.getInstance();
 //        calendar.set(Calendar.HOUR_OF_DAY, 8);
@@ -873,16 +892,16 @@
 //        long triggerTime = SystemClock.elapsedRealtime();
 //        long triggerTime = System.currentTimeMillis();//</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9uQmluZGRkCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>public class ServerService extends Service{
         
         private Messenger messenger=new Messenger(new Handler(){
@@ -900,26 +919,6 @@
             return messenger.getBinder();
         }
     }</text>
-      </register>
-      <register name="7" type="4">
-        <text>private class InnerServiceConnection implements ServiceConnection {
-        @Override
-        public void onServiceConnected(ComponentName name, IBinder service) {
-            Messenger serverMessenger=new Messenger(service);
-            Message toServerMsg=Message.obtain();
-        }
-
-        @Override
-        public void onServiceDisconnected(ComponentName name) {
-
-        }
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
