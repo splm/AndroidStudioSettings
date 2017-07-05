@@ -264,9 +264,9 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" timestamp="1495091046290">
-        <mark key="[" line="115" column="57" />
-        <mark key="]" line="119" column="57" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" timestamp="1499237343473">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="311" column="5" />
         <mark key="." line="119" column="57" />
         <mark key="^" line="119" column="57" />
       </file>
@@ -402,6 +402,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/Local.java" timestamp="1499237035456">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/IAdapterFactory.java" timestamp="1492501182555">
         <mark key="[" line="8" column="30" />
@@ -656,11 +662,24 @@
       <file name="/Dummy.txt" timestamp="1497930462132">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/AlipayPaymentImpl.java" timestamp="1499239873034">
+        <mark key="'" line="33" column="32" />
+        <mark key="[" line="94" column="38" />
+        <mark key="]" line="89" column="80" />
+        <mark key="." line="89" column="54" />
+        <mark key="^" line="88" column="82" />
+      </file>
       <file name="E:/caodi/work/AutoPunchout/app/src/main/res/layout/activity_main.xml" timestamp="1497940889410">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/OnPayListener.java" timestamp="1499239063986">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
         <mark key="[" line="60" column="10" />
@@ -749,7 +768,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1497929135946">
+      <file name="/fragment.java" timestamp="1499238421417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
@@ -760,7 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="16" filename="E:/caodi/work/CustomTest/app/src/main/java/component/splm/me/customtest/XposedHookHandler.java" />
       <jump line="8" column="8" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
       <jump line="10" column="4" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
       <jump line="19" column="12" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
@@ -860,59 +878,47 @@
       <jump line="123" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
       <jump line="116" column="23" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
       <jump line="76" column="0" filename="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/service/EnvelopeService.java" />
+      <jump line="25" column="32" filename="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/AlipayPaymentImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IPayment</text>
+        <text>authResult.getResultCode()</text>
       </register>
       <register name="-" type="4">
-        <text>IPayment</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="4">
-        <text>IPaymentFactory</text>
+        <text>authResult.getResultCode()</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IEFkbWluaXN0cmF0b3Igb24gMjAxNy83LzUgMDAwNS4KICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>catch(InstantiationException ine){
-            
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtUGF5TGlzdGVuZXIgIT0gbnVsbCkgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text>@Override
-    public IPaymentFactory createFactoryOfNodes() {
-        return null;
-    }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzcvNSAwMDA1LgogKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="6" type="4">
-        <text>//        long time = 6 * 1000 * 10;
-//        Calendar calendar = Calendar.getInstance();
-//        calendar.set(Calendar.HOUR_OF_DAY, 8);
-//        calendar.set(Calendar.MINUTE, 0);
-//        calendar.set(Calendar.SECOND, 1);
-//        calendar.set(Calendar.MILLISECOND, 0);
-//        time = calendar.getTimeInMillis();
-//        long triggerTime = SystemClock.elapsedRealtime();
-//        long triggerTime = System.currentTimeMillis();//</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmVxdWFscyhyZXN1bHRTdGF0dXMsICI5MDAwIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8guMOxyraptaXKx7fx1ebKtdanuLazybmmo6zQ6NKq0sDAtbf+zvG2y7XE0uyyvc2o1qqhowogICAgICAgICAgICAgICAgICAgICAgICBpZihtUGF5TGlzdGVuZXIhPW51bGwpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbVBheUxpc3RlbmVyLm9uUGF5Q29uZmlybUJ5Q2xpZW50KHJlc3VsdEluZm8pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy/Wp7i2yqew3AogICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy/Kx7fx1ebKtdanuLazybmmCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzcvNSAwMDA1LgogKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR3NvbiBnc29uPW5ldyBHc29uKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyByZXN1bHQ9Z3Nvbi50b0pzb24ocGF5UmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tQYXlJbmZvRnJvbVNlcnZlcihyZXN1bHQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqKioqKioiLCAiaGFuZGxlTWVzc2FnZTogcmVzdWx0PT0iK3Jlc3VsdC5sZW5ndGgoKSApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uQmluZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqKioqKioiLCAiaGFuZGxlTWVzc2FnZTogIityZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
