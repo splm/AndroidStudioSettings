@@ -24,7 +24,7 @@
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/binding/BindingMarker.java" timestamp="1492741308597">
         <mark key="[" line="10" column="81" />
       </file>
-      <file name="/a.dummy" timestamp="1497356584985">
+      <file name="/a.dummy" timestamp="1499222647142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/interactor/GetUnpayList.java" timestamp="1493362334927">
@@ -42,8 +42,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/IFactory.java" timestamp="1499221220507">
-        <mark key="[" line="7" column="41" />
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/IFactory.java" timestamp="1499222788359">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_bottom_bar.xml" timestamp="1492739310859">
         <mark key="[" line="19" column="47" />
@@ -55,6 +58,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/PaymentFactoryImpl.java" timestamp="1499222471762">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
@@ -198,6 +207,9 @@
         <mark key="]" line="29" column="14" />
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="14" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/AlipayPaymentFactoryImpl.java" timestamp="1499222903527">
+        <mark key="[" line="9" column="45" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/ShouldPayFragment.java" timestamp="1495096750893">
         <mark key="[" line="49" column="66" />
@@ -851,37 +863,38 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>catch(InstantiationException ine){
-            
-        }</text>
+        <text>IPayment</text>
       </register>
       <register name="-" type="4">
-        <text>Log.e(TAG, &quot;onAccessibilityEvent: 包含目标字符串&quot;);</text>
+        <text>IPayment</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKChQYXltZW50TWVudUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5zZXRUaXRsZWJhckxlZnRWaXNpYmxlKFZpZXcuR09ORSk7Cg==</text>
+      <register name="0" type="4">
+        <text>IPaymentFactory</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IEFkbWluaXN0cmF0b3Igb24gMjAxNy83LzUgMDAwNS4KICov</text>
+      </register>
+      <register name="2" type="4">
         <text>catch(InstantiationException ine){
             
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>@Override
     public IPaymentFactory createFactoryOfNodes() {
         return null;
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzcvNSAwMDA1LgogKi8K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>//        long time = 6 * 1000 * 10;
 //        Calendar calendar = Calendar.getInstance();
 //        calendar.set(Calendar.HOUR_OF_DAY, 8);
@@ -892,33 +905,14 @@
 //        long triggerTime = SystemClock.elapsedRealtime();
 //        long triggerTime = System.currentTimeMillis();//</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIG9uQmluZGRkCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>public class ServerService extends Service{
-        
-        private Messenger messenger=new Messenger(new Handler(){
-            @Override
-            public void handleMessage(Message msg) {
-                Log.e(&quot;*************&quot;, &quot;handleMessage: 来自服务端88888888888888&quot;);
-                super.handleMessage(msg);
-            }
-        });
-        
-        @Nullable
-        @Override
-        public IBinder onBind(Intent intent) {
-            
-            return messenger.getBinder();
-        }
-    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
