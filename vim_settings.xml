@@ -45,10 +45,10 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/DisplayWebpageActivity.java" timestamp="1499395701704">
-        <mark key="[" line="126" column="11" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/DisplayWebpageActivity.java" timestamp="1499738372265">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
@@ -188,6 +188,12 @@
         <mark key="]" line="39" column="35" />
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="35" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/MyWebViewClient.java" timestamp="1499737782838">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/MainViewModel.java" timestamp="1492502737130">
         <mark key="[" line="24" column="3" />
@@ -408,6 +414,9 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/AbsOverrideAction.java" timestamp="1499738719472">
+        <mark key="[" line="13" column="5" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/res/layout/activity_display_webpage.xml" timestamp="1499306585496">
         <mark key="[" line="2" column="39" />
       </file>
@@ -473,6 +482,12 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="12" column="40" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/CCBInterceptAction.java" timestamp="1499738543614">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_recyler.xml" timestamp="1492657117867">
         <mark key="[" line="18" column="0" />
@@ -607,7 +622,7 @@
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbarConfig.java" timestamp="1491537048800">
         <mark key="[" line="2" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1499328576032">
+      <file name="/fragment.java" timestamp="1499738240099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
@@ -721,7 +736,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFdYCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0NDQk9mQmFua0ludGVyY2VwdChTdHJpbmcgdXJsKSB7CiAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqIiwgImludGVyY2VwdFVybDogIiArIHVybCk7CiAgICAgICAgU3RyaW5nIHZhbHVlID0gVXJpLnBhcnNlKHVybCkuZ2V0UXVlcnlQYXJhbWV0ZXIoIlNVQ0NFU1MiKTsKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHZhbHVlKSkgewogICAgICAgICAgICBpZiAoIlkiLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIExvZy5lKCIqKioqKioqKioqKiIsICLWp7i2s8m5piIpOwogICAgICAgICAgICAgICAgc2V0UmVzdWx0KFBBWVNVQ0NFU1NfQ09ERSk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKHVybC5zdGFydHNXaXRoKENDQkFOS1RBRykpIHsKICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBJbnRlbnQgY2hlY2tJbnRlbnQgPSBwbS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKENDQkFOS1BBQ0tBR0VOQU1FKTsKICAgICAgICAgICAgaWYgKGNoZWNrSW50ZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KEludGVudC5BQ1RJT05fVklFVywgVXJpLnBhcnNlKHVybCkpOwogICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.progressing(params)</text>
@@ -733,33 +748,33 @@
         <text encoding="base64">ICAgIC8qKiq9qMno0vjQ0LD8w/sqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0NCQU5LUEFDS0FHRU5BTUU9ImNvbS5jaGluYW13b3JsZC5tYWluIjsKICAgIC8qKr2oyejS+NDQdXJsxvDKvLHqyrYqKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENDQkFOS1RBRz0ibWJzcGF5OiI7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0NDQk9mQmFua0ludGVyY2VwdChTdHJpbmcgdXJsKSB7CiAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqIiwgImludGVyY2VwdFVybDogIiArIHVybCk7CiAgICAgICAgU3RyaW5nIHZhbHVlID0gVXJpLnBhcnNlKHVybCkuZ2V0UXVlcnlQYXJhbWV0ZXIoIlNVQ0NFU1MiKTsKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHZhbHVlKSkgewogICAgICAgICAgICBpZiAoIlkiLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIExvZy5lKCIqKioqKioqKioqKiIsICLWp7i2s8m5piIpOwogICAgICAgICAgICAgICAgc2V0UmVzdWx0KFBBWVNVQ0NFU1NfQ09ERSk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKHVybC5zdGFydHNXaXRoKENDQkFOS1RBRykpIHsKICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBJbnRlbnQgY2hlY2tJbnRlbnQgPSBwbS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKENDQkFOS1BBQ0tBR0VOQU1FKTsKICAgICAgICAgICAgaWYgKGNoZWNrSW50ZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KEludGVudC5BQ1RJT05fVklFVywgVXJpLnBhcnNlKHVybCkpOwogICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuc2V0TWVzc2FnZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFdlCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFdYCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>{
             public boolean 
         },</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmltcG9ydCBzdGF0aWMgYW5kcm9pZC5jb250ZW50LkNvbnRlbnRWYWx1ZXMuVEFHOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLmNvbnRlbnQuQ29udGVudFZhbHVlcy5UQUc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLmNvbnRlbnQuQ29udGVudFZhbHVlcy5UQUc7ZGQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnNwbG0uYXBwLnBheW1lbnRiYXNlamMucmF3LkxvY2FsOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLnNwbG0uYXBwLnBheW1lbnRiYXNlamMucmF3LkxvY2FsOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLmNvbnRlbnQuQ29udGVudFZhbHVlcy5UQUc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
