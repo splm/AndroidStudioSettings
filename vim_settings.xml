@@ -89,6 +89,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/InjectDefaultUI.java" timestamp="1499755388677">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+      </file>
       <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/Base/BaseActivity.java" timestamp="1495425578420">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="22" column="29" />
@@ -139,6 +145,12 @@
         <mark key="]" line="212" column="48" />
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/AbsInjectUI.java" timestamp="1499755296580">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/TestViewModel.java" timestamp="1492738884755">
         <mark key="[" line="12" column="24" />
@@ -736,7 +748,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0NDQk9mQmFua0ludGVyY2VwdChTdHJpbmcgdXJsKSB7CiAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqIiwgImludGVyY2VwdFVybDogIiArIHVybCk7CiAgICAgICAgU3RyaW5nIHZhbHVlID0gVXJpLnBhcnNlKHVybCkuZ2V0UXVlcnlQYXJhbWV0ZXIoIlNVQ0NFU1MiKTsKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHZhbHVlKSkgewogICAgICAgICAgICBpZiAoIlkiLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIExvZy5lKCIqKioqKioqKioqKiIsICLWp7i2s8m5piIpOwogICAgICAgICAgICAgICAgc2V0UmVzdWx0KFBBWVNVQ0NFU1NfQ09ERSk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKHVybC5zdGFydHNXaXRoKENDQkFOS1RBRykpIHsKICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBJbnRlbnQgY2hlY2tJbnRlbnQgPSBwbS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKENDQkFOS1BBQ0tBR0VOQU1FKTsKICAgICAgICAgICAgaWYgKGNoZWNrSW50ZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KEludGVudC5BQ1RJT05fVklFVywgVXJpLnBhcnNlKHVybCkpOwogICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>.progressing(params)</text>
@@ -744,37 +756,37 @@
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiq9qMno0vjQ0LD8w/sqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ0NCQU5LUEFDS0FHRU5BTUU9ImNvbS5jaGluYW13b3JsZC5tYWluIjsKICAgIC8qKr2oyejS+NDQdXJsxvDKvLHqyrYqKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENDQkFOS1RBRz0ibWJzcGF5OiI7Cg==</text>
+      <register name="0" type="4">
+        <text>onUIWidgetDismiss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0NDQk9mQmFua0ludGVyY2VwdChTdHJpbmcgdXJsKSB7CiAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqIiwgImludGVyY2VwdFVybDogIiArIHVybCk7CiAgICAgICAgU3RyaW5nIHZhbHVlID0gVXJpLnBhcnNlKHVybCkuZ2V0UXVlcnlQYXJhbWV0ZXIoIlNVQ0NFU1MiKTsKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHZhbHVlKSkgewogICAgICAgICAgICBpZiAoIlkiLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIExvZy5lKCIqKioqKioqKioqKiIsICLWp7i2s8m5piIpOwogICAgICAgICAgICAgICAgc2V0UmVzdWx0KFBBWVNVQ0NFU1NfQ09ERSk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKHVybC5zdGFydHNXaXRoKENDQkFOS1RBRykpIHsKICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBJbnRlbnQgY2hlY2tJbnRlbnQgPSBwbS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKENDQkFOS1BBQ0tBR0VOQU1FKTsKICAgICAgICAgICAgaWYgKGNoZWNrSW50ZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KEludGVudC5BQ1RJT05fVklFVywgVXJpLnBhcnNlKHVybCkpOwogICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IGRkIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBwdWJsaWMgSW5qZWN0RGVmYXVsdFVJKENvbnRleHQgY29udGV4dCkgewogICAgICAgIGluaXQoY29udGV4dCk7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+ * Created by Administrator on 2017/7/11 0011.
+ */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuc2V0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0NDQk9mQmFua0ludGVyY2VwdChTdHJpbmcgdXJsKSB7CiAgICAgICAgTG9nLmUoIioqKioqKioqKioqKioqIiwgImludGVyY2VwdFVybDogIiArIHVybCk7CiAgICAgICAgU3RyaW5nIHZhbHVlID0gVXJpLnBhcnNlKHVybCkuZ2V0UXVlcnlQYXJhbWV0ZXIoIlNVQ0NFU1MiKTsKICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHZhbHVlKSkgewogICAgICAgICAgICBpZiAoIlkiLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIExvZy5lKCIqKioqKioqKioqKiIsICLWp7i2s8m5piIpOwogICAgICAgICAgICAgICAgc2V0UmVzdWx0KFBBWVNVQ0NFU1NfQ09ERSk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKHVybC5zdGFydHNXaXRoKENDQkFOS1RBRykpIHsKICAgICAgICAgICAgUGFja2FnZU1hbmFnZXIgcG0gPSBnZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBJbnRlbnQgY2hlY2tJbnRlbnQgPSBwbS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKENDQkFOS1BBQ0tBR0VOQU1FKTsKICAgICAgICAgICAgaWYgKGNoZWNrSW50ZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KEludGVudC5BQ1RJT05fVklFVywgVXJpLnBhcnNlKHVybCkpOwogICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFdlCg==</text>
+        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFdYCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-            public boolean 
-        },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtUHJvZ3Jlc3NEaWFsb2cuc2V0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
