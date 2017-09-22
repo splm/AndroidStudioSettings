@@ -111,6 +111,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/Config.java" timestamp="1506068138267">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="48" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
       </file>
@@ -195,6 +200,13 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/ForemanProcessor.java" timestamp="1506067184888">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="78" column="62" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="E:/caodi/work/CustomTest/app/src/main/res/layout/activity_demo.xml" timestamp="1492074248976">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="19" column="29" />
@@ -212,10 +224,6 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
-      </file>
-      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/data/datasource/Constans.java" timestamp="1499311486843">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="51" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_paid_list.xml" timestamp="1495096545822">
         <mark key="[" line="35" column="8" />
@@ -270,6 +278,12 @@
         <mark key="]" line="49" column="66" />
         <mark key="." line="49" column="66" />
         <mark key="^" line="49" column="66" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/FileMapper.java" timestamp="1506068168393">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="11" column="92" />
+        <mark key="^" line="11" column="92" />
+        <mark key="." line="11" column="92" />
       </file>
       <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/widget/Space.java" timestamp="1497325942387">
         <mark key="[" line="27" column="19" />
@@ -418,6 +432,7 @@
         <mark key="." line="34" column="37" />
         <mark key="^" line="34" column="37" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/view/activity/CommentActivity.java" timestamp="1506070104886" />
       <file name="E:/caodi/work/MyDevelopment/app/src/main/aidl/component/splm/me/mydevelopment/IMyAidlInterface.aidl" timestamp="1495421650708">
         <mark key="[" line="11" column="44" />
       </file>
@@ -450,12 +465,6 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
-      </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/DisplayWebpageActivity.java" timestamp="1499317625776">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/AbsOverrideAction.java" timestamp="1499738719472">
         <mark key="[" line="13" column="5" />
@@ -580,7 +589,7 @@
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/paidlist_item.xml" timestamp="1493103201232">
         <mark key="[" line="12" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499306711368">
+      <file name="/Dummy.txt" timestamp="1506070211885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/AlipayPaymentImpl.java" timestamp="1499912923410">
@@ -626,14 +635,16 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/Task/AbsMyTask.java" timestamp="1499328842081">
-        <mark key="^" line="7" column="0" />
-      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/activity/LoginActivity.java" timestamp="1491529252517">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GeneratePlumberAction.java" timestamp="1506067303194">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidListViewModel.java" timestamp="1493013946904">
         <mark key="[" line="42" column="0" />
@@ -676,9 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="6" filename="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/ListAdapter.java" />
-      <jump line="10" column="0" filename="E:/caodi/work/ComponetLibDemo/app/src/main/AndroidManifest.xml" />
-      <jump line="8" column="0" filename="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/ListActivity.java" />
       <jump line="0" column="0" filename="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/ListActivity.java" />
       <jump line="19" column="0" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_list.xml" />
       <jump line="33" column="20" filename="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/ListViewModel.java" />
@@ -776,24 +784,45 @@
       <jump line="37" column="0" filename="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/DisplayWebpageActivity.java" />
       <jump line="45" column="0" filename="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/DisplayWebpageActivity.java" />
       <jump line="51" column="0" filename="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/DisplayWebpageActivity.java" />
+      <jump line="97" column="4" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/ForemanProcessor.java" />
+      <jump line="105" column="0" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/ForemanProcessor.java" />
+      <jump line="0" column="0" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/ForemanProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>objec</text>
+        <text>$$Porter</text>
       </register>
       <register name="-" type="4">
-        <text>objec</text>
+        <text>$$Porter</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogd2Vidmlld9bQtcRVUkzH68fzwLm92Lav1/ejutanuLaxpgo=</text>
+      <register name="0" type="4">
+        <text>$$Plumber</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAqLwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBBZG1pbmlzdHJhdG9yIG9uIDIwMTcvOS8xOSAwMDE5Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBTZXR0ZXIoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZyxTZXQ8PyBleHRlbmRzIFR5cGVFbGVtZW50Pj4gYW5ub3RhdGlvbk1hcHBlcj1uZXcgSGFzaE1hcDw+KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>//        String url = getIntent().getStringExtra(&quot;url&quot;);
 //        mDisplayWV.loadUrl(url);
 //        mDisplayWV.getSettings().setJavaScriptEnabled(true);// 支持JS
@@ -802,49 +831,11 @@
 //        client.addIntercepterUrlAction(new CCBInterceptAction(this));
 //        mDisplayWV.setWebViewClient(new MyWebViewClient());</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZEluamVjdFVJQ29tcG9uZW50KG5ldyBJbmplY3REZWZhdWx0VUkodGhpcykpLmFkZE92ZXJyaWRlVXJsTGlzdGVuZXIobmV3IElvdmVyKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text>alipayPayment.registerListener(new OnPayListener() {
-            @Override
-            public void onPayConfirmByClient(String resultInfo) {
-
-            }
-
-            @Override
-            public void onPayFailByClient() {
-
-            }
-
-            @Override
-            public void onAuthSuccessful(String authCode) {
-
-            }
-
-            @Override
-            public void onAuthFailure(String authCode) {
-
-            }
-        });</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>d 3 5</text>
       </register>
     </registers>
     <search>
@@ -873,6 +864,7 @@
         <entry>e paidList</entry>
         <entry>84 d</entry>
         <entry>w</entry>
+        <entry>d 3 5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
