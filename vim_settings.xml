@@ -74,10 +74,10 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GeneratePorterAction.java" timestamp="1506473626825">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GeneratePorterAction.java" timestamp="1506494795052">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/AdapterTriggerImpl.java" timestamp="1493027881403">
         <mark key="[" line="12" column="8" />
@@ -128,6 +128,12 @@
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/WeWorkersProxy.java" timestamp="1506497936085">
+        <mark key="[" line="18" column="158" />
+        <mark key="]" line="18" column="112" />
+        <mark key="^" line="18" column="112" />
+        <mark key="." line="18" column="112" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
@@ -239,6 +245,11 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/SecondActivity.java" timestamp="1506498981831">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="E:/caodi/work/MyDevelopment/app/src/main/res/layout/activity_aidl.xml" timestamp="1495423006177">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="9" column="41" />
@@ -347,8 +358,8 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="21" column="77" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ITreeAction.java" timestamp="1506415858171">
-        <mark key="[" line="9" column="68" />
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ITreeAction.java" timestamp="1506494354155">
+        <mark key="[" line="8" column="50" />
         <mark key="]" line="9" column="85" />
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="85" />
@@ -419,6 +430,7 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/CAUTION.md" timestamp="1506495085677" />
       <file name="E:/caodi/work/AutoPunchout/README.md" timestamp="1497928549281">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="0" column="0" />
@@ -509,6 +521,11 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/BaseActivity.java" timestamp="1506498914614">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/AbsOverrideAction.java" timestamp="1499738719472">
         <mark key="[" line="13" column="5" />
       </file>
@@ -526,6 +543,11 @@
         <mark key="]" line="31" column="52" />
         <mark key="." line="31" column="52" />
         <mark key="^" line="31" column="52" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/MainActivity.java" timestamp="1506498910374">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/content_main.xml" timestamp="1491466314418">
         <mark key="[" line="11" column="43" />
@@ -703,7 +725,11 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.7.0/514d3c57164e54d51fc41388bf6b5a95b748b88f/javapoet-1.7.0-sources.jar!/com/squareup/javapoet/JavaFile.java" timestamp="1506480752177" />
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/elder/NamePair.java" timestamp="1506498734903">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidListViewModel.java" timestamp="1493013946904">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="63" column="10" />
@@ -853,8 +879,8 @@
       <jump line="44" column="25" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GenerateLoadingBridgeAction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBXZVdvcmtlcnNQcm94eS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -863,34 +889,34 @@
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQWN0aW9uVGFza1F1ZXVlLmNvbnN0cnVjdCh0YXNrQSx0YXNrQik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBXZVdvcmtlcnNQcm94eS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1F1ZXVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBXZVdvcmtlcnNQcm94eS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrUXVldWUuYWRkKHRhc2tBKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE3LzkvNSAwMDA1LgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBBY3Rpb25UYXNrUXVldWUgZ2V0SG93VG9DcmVhdGUoVHJlZVRydW5rIHRyZWVUcnVuayl7CiAgICAgICAgcmV0dXJuIEFjdGlvblRhc2tRdWV1ZS5jb25zdHJ1Y3QodGFza0EsdGFza0IpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpdml0eUNvcmVNYW5hZ2VyIGFjdGl2aXR5Q29yZU1hbmFnZXI9KEFjdGl2aXR5Q29yZU1hbmFnZXIpIEdsb2JhbE1hbmFnZXJNYW51YWwuZmluZEFjdGl2aXR5Q29yZU1hbmFnZXIuc2VhcmNoTWFuYWdlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqKioqKioqKioqKioiLCAib25DcmVhdGU6ICIrYWN0aXZpdHlDb3JlTWFuYWdlci5jdXJyZW50QWN0aXZpdHkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiLS0tLS0tLS0tLS0tLSIsICJvbkNyZWF0ZTogIit0aGlzLmdldENsYXNzKCkuZ2V0QW5ub3RhdGlvbihXZUluamVjdFBvcnRlci5jbGFzcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpb25UYXNrIHRhc2tBPW5ldyBHZW5lcmF0ZVBsdW1iZXJBY3Rpb24oKS5wcmVwYXJlQWN0aW9uKHRyZWVUcnVuayk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVzc2FnZXIgbWVzc2FnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpb25UYXNrUXVldWUgdGFza1F1ZXVlPW5ldyBBY3Rpb25UYXNrUXVldWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1F1ZXVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>d 3 5</text>
