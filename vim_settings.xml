@@ -3,16 +3,23 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/values/styles.xml" timestamp="1493261346745">
+        <mark key="[" line="104" column="58" />
+        <mark key="]" line="104" column="66" />
+        <mark key="^" line="104" column="7" />
+        <mark key="." line="104" column="7" />
+      </file>
       <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/broadcast/StartPunchoutService.java" timestamp="1497356321426">
         <mark key="[" line="10" column="33" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidBaseViewModel.java" timestamp="1492741547174">
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/CCBInterceptAction.java" timestamp="1499912715117">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/read/data/datasource/BookDataStoreCloud.java" timestamp="1497429967385">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="71" column="44" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/binding/BindingMarker.java" timestamp="1492741308597">
         <mark key="[" line="10" column="81" />
@@ -22,68 +29,211 @@
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/view/activity/InfoActivity.java" timestamp="1507527380926" />
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/data/datasource/InfoDataStoreCloud.java" timestamp="1507617758032" />
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/IFactory.java" timestamp="1499222788359">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="63" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_bottom_bar.xml" timestamp="1492739310859">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/viewmodel/CommentListViewModel.java" timestamp="1507616063126">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="0" />
         <mark key="." line="444" column="0" />
       </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/AbsPayment.java" timestamp="1499912520908">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-      </file>
-      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/DisplayWebpageActivity.java" timestamp="1499913028940">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/PaymentFactoryImpl.java" timestamp="1499222471762">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="9" column="44" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/PlumberProcessor2.java" timestamp="1506491827743">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/aidl/me/splm/app/autopunchout/ITransDataaidlInterface.aidl" timestamp="1497584985231">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GeneratePorterAction.java" timestamp="1506762023167">
-        <mark key="[" line="48" column="117" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="o" line="42" column="80" />
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/AdapterTriggerImpl.java" timestamp="1493027881403">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/Config.java" timestamp="1506764127633">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/ui/EmptyListview.java" timestamp="1495095453829">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+      </file>
+      <file name="E:/caodi/work/XposedHookDemo/app/src/main/assets/xposed_init" timestamp="1492407587212">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/AbsGenerateJavaAction.java" timestamp="1506669532693">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/AndroidManifest.xml" timestamp="1493166805945">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/GoodsAdapter.java" timestamp="1493172936566">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="61" column="56" />
+        <mark key="." line="61" column="56" />
+        <mark key="^" line="61" column="56" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/InjectDefaultUI.java" timestamp="1506739930055">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="50" column="3" />
+        <mark key="." line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/Base/BaseActivity.java" timestamp="1495425578420">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/WeWorkersProxy.java" timestamp="1506497936085">
+        <mark key="[" line="18" column="158" />
+        <mark key="]" line="18" column="112" />
+        <mark key="^" line="18" column="112" />
+        <mark key="." line="18" column="112" />
+      </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/login/viewmodel/LoginViewModel.java" timestamp="1491449868711">
         <mark key="[" line="10" column="27" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/UnPayRecordActivity.java" timestamp="1493015055352">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/Utils/DirectUtils.java" timestamp="1492743413743">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/user/presentation/view/activity/UserCenterActivity.java" timestamp="1507527995934" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/view/fragment/FragmentResource.java" timestamp="1497431805189">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/domain/interactor/SaveStudyTimeUseCase.java" timestamp="1507788710024" />
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/AlipayInterceptAction.java" timestamp="1499912422339">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/CCBPaymentImpl.java" timestamp="1499913212692">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/ShouldPayActivity.java" timestamp="1492743647949">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="16" column="4" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/Adapter/ShouldPayAdapter.java" timestamp="1493102399463">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/MyCommonRecyclerAdapter.java" timestamp="1492650478819">
         <mark key="[" line="16" column="4" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" timestamp="1494560896647">
+        <mark key="[" line="208" column="19" />
+        <mark key="]" line="212" column="48" />
+        <mark key="." line="212" column="48" />
+        <mark key="^" line="212" column="48" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/AbsInjectUI.java" timestamp="1506739964413">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/PlumberProcessor.java" timestamp="1506484729745">
+        <mark key="[" line="89" column="65" />
+        <mark key="]" line="89" column="50" />
+        <mark key="^" line="89" column="50" />
+        <mark key="." line="89" column="50" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/TestViewModel.java" timestamp="1492738884755">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/BaseActivity.java" timestamp="1492737272768">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/AlipayPaymentFactoryImpl.java" timestamp="1499222903527">
         <mark key="[" line="9" column="45" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/ListViewModel.java" timestamp="1493026677632">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/data/entity/Comment.java" timestamp="1507615096099">
         <mark key="[" line="30" column="19" />
         <mark key="]" line="30" column="28" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GenerateLoadingBridgeAction.java" timestamp="1506473640449">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="E:/caodi/work/CustomTest/app/src/main/res/layout/activity_demo.xml" timestamp="1492074248976">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/SecondActivity.java" timestamp="1507511858683">
-        <mark key="'" line="17" column="49" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="0" />
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GenerateActionKit.java" timestamp="1506417428732">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/res/layout/activity_aidl.xml" timestamp="1495423006177">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/formedittext/src/main/java/com/jc/formedittext/FormEditText.java" timestamp="1491962161647">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/viewmodel/InfoDetailsViewModel.java" timestamp="1507617337835">
         <mark key="[" line="119" column="107" />
@@ -91,12 +241,60 @@
         <mark key="." line="120" column="83" />
         <mark key="^" line="120" column="83" />
       </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_paid_list.xml" timestamp="1495096545822">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="35" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/MyWebViewClient.java" timestamp="1499737782838">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="15" column="39" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/MainViewModel.java" timestamp="1492502737130">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="24" column="5" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" timestamp="1499306806864">
+        <mark key="[" line="268" column="48" />
+        <mark key="]" line="311" column="5" />
+        <mark key="." line="119" column="57" />
+        <mark key="^" line="119" column="57" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/MainActivity.java" timestamp="1495423462275">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/read/presentation/view/activity/BookCenterActivity.java" timestamp="1507527954062" />
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/ThirdActivity.java" timestamp="1506758572212">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/drawable/selector_pay_icon.xml" timestamp="1507526941662">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="90" />
         <mark key="." line="5" column="90" />
         <mark key="^" line="5" column="90" />
+      </file>
+      <file name="E:/caodi/work/CustomTest/app/src/main/assets/xposed_init" timestamp="1492130074392">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/ui/Utils.java" timestamp="1493365963376">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/PaymentMenuActivity.java" timestamp="1507511617921">
         <mark key="[" line="133" column="83" />
@@ -104,16 +302,156 @@
         <mark key="." line="136" column="27" />
         <mark key="^" line="136" column="27" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/app/build/generated/source/apt/debug/com/jc/android/auto/WeMainActivity$$Porter.java" timestamp="1506580186815">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/activity_login.xml" timestamp="1491555678181">
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="49" column="66" />
+        <mark key="." line="49" column="66" />
+        <mark key="^" line="49" column="66" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/core/FileMapper.java" timestamp="1506068168393">
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="11" column="92" />
+        <mark key="^" line="11" column="92" />
+        <mark key="." line="11" column="92" />
+      </file>
+      <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/widget/Space.java" timestamp="1497325942387">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/data/datasource/IPayInfoStore.java" timestamp="1493357747172">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ActionTask.java" timestamp="1506738312516">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/viewmodel/BookShelfViewModel.java" timestamp="1507777565774">
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="53" />
+        <mark key="." line="90" column="53" />
+        <mark key="^" line="90" column="53" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/title_payment.xml" timestamp="1493264806206">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/aidl/me/splm/app/autopunchout/TransDataInterfaceAIDL.aidl" timestamp="1497583030717">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/PaidListActivity.java" timestamp="1494295790338">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="77" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ITreeAction.java" timestamp="1506494354155">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="9" column="85" />
+        <mark key="^" line="9" column="85" />
+        <mark key="." line="9" column="85" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_unpay_lis.xml" timestamp="1497326600429">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="117" column="0" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_should_pay.xml" timestamp="1492742401480">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/fragment/UnPayRecordFragment.java" timestamp="1495096875042">
+        <mark key="[" line="112" column="86" />
+        <mark key="]" line="112" column="50" />
+        <mark key="." line="112" column="50" />
+        <mark key="^" line="112" column="50" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/BaseViewModel.java" timestamp="1492739206410">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/OpenBankActivity.java" timestamp="1499307009143">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="40" column="50" />
+        <mark key="." line="40" column="50" />
       </file>
       <file name="E:/caodi/work/jgdj_II/buildsystem/dependencies.gradle" timestamp="1494981848111">
         <mark key="[" line="9" column="28" />
       </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/CheckboxLIstActivity.java" timestamp="1493166753920">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/MyWebViewClient.java" timestamp="1500286570667">
         <mark key="[" line="50" column="49" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/viewmodel/LoginViewModel.java" timestamp="1491529323870">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/build.gradle" timestamp="1492497006870">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/net/IPayInfoService.java" timestamp="1497490337097">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="88" />
+        <mark key="." line="20" column="88" />
+        <mark key="^" line="20" column="88" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/viewmodel/DocumentViewModel.java" timestamp="1507789589969" />
+      <file name="E:/caodi/work/TestPay/app/src/main/java/me/splm/app/testpay/MainActivity.java" timestamp="1506740635525">
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/README.md" timestamp="1497928549281">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/Local.java" timestamp="1499328715937">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/IAdapterFactory.java" timestamp="1492501182555">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+      </file>
+      <file name="E:/caodi/soft/Android/sdk/sources/android-23/android/widget/ImageView.java" timestamp="1498463322325">
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="4" />
+        <mark key="^" line="140" column="4" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/data/entity/Info.java" timestamp="1507619161901">
         <mark key="^" line="28" column="29" />
@@ -126,15 +464,89 @@
       <file name="E:/caodi/work/ComponetLibDemo/app/build/intermediates/data-binding-layout-out/debug/layout/activity_base.xml" timestamp="1492739332396">
         <mark key="[" line="28" column="29" />
       </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/ItemModel.java" timestamp="1492482433964">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/values/strings.xml" timestamp="1493087152389">
+        <mark key="[" line="162" column="29" />
+        <mark key="]" line="162" column="32" />
+        <mark key="^" line="162" column="32" />
+        <mark key="." line="162" column="32" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/RecyclerViewModel.java" timestamp="1492659345400">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/main/presentation/view/activity/MainActivity.java" timestamp="1507526074598" />
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/CommonRecylerAdapter.java" timestamp="1492659628211">
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/user/presentation/view/activity/RemindDetailActivity.java" timestamp="1507615696495" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/viewmodel/FragmentResourceViewModel.java" timestamp="1507789431809" />
       <file name="E:/caodi/work/MyDevelopment/app/src/main/aidl/component/splm/me/mydevelopment/IMyAidlInterface.aidl" timestamp="1495421650708">
         <mark key="[" line="11" column="44" />
+      </file>
+      <file name="E:/caodi/work/CustomTest/app/src/main/java/component/splm/me/customtest/XposedHookLogPackage.java" timestamp="1492130020789">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ActionTaskQueue.java" timestamp="1506484087122">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/Task/MyTask.java" timestamp="1499328522705">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/bindingutils/AbsDataBindingUtils.java" timestamp="1491446790043">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="5" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/res/layout/activity_third.xml" timestamp="1506647771020">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/main_bottom_menu.xml" timestamp="1507527313798">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="E:/caodi/work/CustomTest/app/src/main/java/component/splm/me/customtest/MainActivity.java" timestamp="1492406267315">
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="67" />
+        <mark key="." line="41" column="67" />
+        <mark key="^" line="41" column="78" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/Utils/OpenSysUI.java" timestamp="1497929315667">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/view/activity/StudyVideoActivity.java" timestamp="1507789528465" />
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/BaseActivity.java" timestamp="1506585423786">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="18" />
       </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/AbsOverrideAction.java" timestamp="1499738719472">
         <mark key="[" line="13" column="5" />
@@ -142,25 +554,123 @@
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/res/layout/activity_display_webpage.xml" timestamp="1499306585496">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/UnExecuteActionTask.java" timestamp="1506752864082">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/interactor/repository/PayRepositoryImpl.java" timestamp="1493362295152">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="75" />
+        <mark key="." line="33" column="75" />
+        <mark key="^" line="33" column="75" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/jobs/AbsGenerateJavaAction.java" timestamp="1506479809598">
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/weannotation/src/main/java/com/jc/android/annotation/WeInjectFeature.java" timestamp="1506669971422">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ExecuteActionTask.java" timestamp="1506737227868">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/view/activity/StudyCenterActivity.java" timestamp="1507527894551" />
-      <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/MainActivity.java" timestamp="1506742343000">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="E:/caodi/work/BaseLibDemo/app/src/main/AndroidManifest.xml" timestamp="1506647980124">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/content_main.xml" timestamp="1491466314418">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/item_checkbox.xml" timestamp="1493167288914">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="27" column="92" />
+        <mark key="." line="27" column="92" />
+        <mark key="^" line="27" column="92" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/DemoConnection.java" timestamp="1495422933426">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/activity_main.xml" timestamp="1491553418699">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/build.gradle" timestamp="1491528644508">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/IAdapterItemTrigger.java" timestamp="1492657342355">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="48" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/AndroidManifest.xml" timestamp="1491554013797">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="66" />
+        <mark key="." line="22" column="66" />
+        <mark key="^" line="22" column="66" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/StandardConfig.java" timestamp="1491537145737">
         <mark key="[" line="8" column="27" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/Task/MyTaskListener.java" timestamp="1499325281861">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/login/viewmodel/LoginViewModel.java" timestamp="1491555709106">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="12" column="40" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/PorterProcessor.java" timestamp="1506491788656">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="29" column="89" />
+        <mark key="^" line="29" column="89" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/CCBInterceptAction.java" timestamp="1499738543614">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_recyler.xml" timestamp="1492657117867">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="E:/caodi/work/jgdj_II/settings.gradle" timestamp="1492665669053">
         <mark key="[" line="0" column="41" />
       </file>
       <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/TreeLeavesFields.java" timestamp="1506589991910">
         <mark key="[" line="12" column="53" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_payment_base.xml" timestamp="1492741771774">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/content_main2.xml" timestamp="1491449668317">
         <mark key="[" line="12" column="33" />
@@ -172,8 +682,44 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/activity/AbsBaseActivity.java" timestamp="1491525476054">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/ActionFactory.java" timestamp="1506492011512">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/values/strings.xml" timestamp="1493167249554">
         <mark key="[" line="2" column="52" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/item_list.xml" timestamp="1492482449836">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/OpenBankViewModel.java" timestamp="1499308460305">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="41" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/weannotation/src/main/java/com/jc/android/annotation/WeInjectPorter.java" timestamp="1506761585703">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="E:/caodi/work/CustomTest/app/src/main/res/asset/xposed_init" timestamp="1492073055042">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/paidlist_item.xml" timestamp="1493103201232">
         <mark key="[" line="12" column="39" />
@@ -181,32 +727,101 @@
       <file name="/Dummy.txt" timestamp="1507527259001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/res/layout/activity_main.xml" timestamp="1497940889410">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/OnPayListener.java" timestamp="1499239063986">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="73" column="10" />
+        <mark key="." line="73" column="10" />
+        <mark key="^" line="73" column="10" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbar.java" timestamp="1491555729621">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="50" column="56" />
+        <mark key="." line="50" column="56" />
+        <mark key="^" line="50" column="56" />
+      </file>
+      <file name="E:/caodi/work/DJ_II/app/src/main/res/layout/layout_test.xml" timestamp="1491535234302">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/TransDataModel.java" timestamp="1493090640931">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
       <file name="/a.regexp" timestamp="1506493374763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/GeneratePlumberAction.java" timestamp="1506473596242">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
+      <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/activity/LoginActivity.java" timestamp="1491529252517">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="32" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/elder/NamePair.java" timestamp="1506498734903">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidListViewModel.java" timestamp="1493013946904">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="63" column="10" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="E:/caodi/work/android_studio/BaiduLocDemo/app/build.gradle" timestamp="1492396488498">
         <mark key="[" line="5" column="13" />
       </file>
-      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/TreeTrunk.java" timestamp="1506647296005">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_paidlist.xml" timestamp="1492671101452">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
+      <file name="E:/caodi/work/MyDevelopment/app/src/main/java/component/splm/me/mydevelopment/aidl/DemoService.java" timestamp="1495425805180">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+      </file>
+      <file name="E:/caodi/work/AutoPunchout/app/src/main/java/me/splm/app/autopunchout/debug/Constans.java" timestamp="1497575230575">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/TreeRoot.java" timestamp="1506589947470">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+      </file>
+      <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/proxy/TreeBranchesMethods.java" timestamp="1506590086830">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/djII/component/global/UI/functionbar/FunctionToolbarConfig.java" timestamp="1491537048800">
         <mark key="[" line="2" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1506737208151">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -312,8 +927,8 @@
       <jump line="10" column="29" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/model/InfoModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBTdHVkeUxpc3RBY3Rpdml0eS5nZXRDYWxsaW5nSW50ZW50KEFwcC5pbnN0YW5jZSgpLmdldEN1cnJlbnRBY3Rpdml0eSgpLCBzdHVkeVR5cGVNb2RlbC5nZXQoKS5nZXRDb3Vyc2V0eXBlTmFtZSgpLCBTdHJpbmcudmFsdWVPZihzdHVkeVR5cGVNb2RlbC5nZXQoKS5nZXRDb3Vyc2V0eXBlQ29kZSgpKSxmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>createUser</text>
@@ -321,8 +936,8 @@
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="4">
-        <text>getCreateUser()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBTdHVkeUxpc3RBY3Rpdml0eS5nZXRDYWxsaW5nSW50ZW50KEFwcC5pbnN0YW5jZSgpLmdldEN1cnJlbnRBY3Rpdml0eSgpLCBzdHVkeVR5cGVNb2RlbC5nZXQoKS5nZXRDb3Vyc2V0eXBlTmFtZSgpLCBTdHJpbmcudmFsdWVPZihzdHVkeVR5cGVNb2RlbC5nZXQoKS5nZXRDb3Vyc2V0eXBlQ29kZSgpKSxmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqKioqKioqKioqKioiLCAiZGV0YWlsc1RyYW5zZm9ybUluZm86IC4iK2luZm8uZ2V0Q3JlYXRlVXNlcigpKTsK</text>
