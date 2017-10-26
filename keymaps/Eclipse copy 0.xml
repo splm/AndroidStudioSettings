@@ -1,4 +1,14 @@
 <keymap version="1" name="Eclipse copy 0" parent="Eclipse">
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
