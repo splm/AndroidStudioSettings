@@ -98,6 +98,11 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="31" column="46" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/PluginPerformer.java" timestamp="1510199851717">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/GoodsAdapter.java" timestamp="1493172936566">
         <mark key="[" line="59" column="16" />
         <mark key="]" line="61" column="56" />
@@ -118,6 +123,11 @@
       </file>
       <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/FourActivity.java" timestamp="1508810119249">
         <mark key="[" line="20" column="50" />
+      </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/IPlugin.java" timestamp="1510197371747">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/caodi/work/DJ_II/app/src/main/java/com/jc/android/app/jgdjII/global/component/viewmodel/AbsViewModel.java" timestamp="1491446383771">
         <mark key="[" line="8" column="25" />
@@ -187,6 +197,12 @@
         <mark key="]" line="212" column="48" />
         <mark key="." line="212" column="48" />
         <mark key="^" line="212" column="48" />
+      </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/URIVar.java" timestamp="1510198637628">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/action/AbsInjectUI.java" timestamp="1506739964413">
         <mark key="[" line="13" column="42" />
@@ -356,6 +372,12 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
+      </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/PluginFactory.java" timestamp="1510197713956">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/study/presentation/viewmodel/BookShelfViewModel.java" timestamp="1507777565774">
         <mark key="[" line="90" column="54" />
@@ -535,6 +557,12 @@
         <mark key="." line="34" column="37" />
         <mark key="^" line="34" column="37" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/AudioRecordPlugin.java" timestamp="1510198352589">
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="57" column="9" />
+        <mark key="^" line="57" column="9" />
+        <mark key="." line="57" column="9" />
+      </file>
       <file name="E:/caodi/work/MyDevelopment/app/src/main/aidl/component/splm/me/mydevelopment/IMyAidlInterface.aidl" timestamp="1495421650708">
         <mark key="[" line="11" column="44" />
       </file>
@@ -706,6 +734,13 @@
         <mark key="]" line="46" column="5" />
         <mark key="^" line="24" column="3" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/LocationPlugin.java" timestamp="1510194302033">
+        <mark key="'" line="52" column="32" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="61" />
+        <mark key="." line="48" column="61" />
+        <mark key="^" line="48" column="61" />
       </file>
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_recyler.xml" timestamp="1492657117867">
         <mark key="[" line="18" column="0" />
@@ -890,7 +925,7 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1509523188394">
+      <file name="/fragment.java" timestamp="1510197394945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PayModel.java" timestamp="1493367586605">
@@ -899,12 +934,15 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/fragment/H5Fragment.java" timestamp="1510199974588">
+        <mark key="'" line="632" column="0" />
+        <mark key="[" line="118" column="39" />
+        <mark key="]" line="99" column="42" />
+        <mark key="." line="99" column="42" />
+        <mark key="^" line="99" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="39" filename="E:/caodi/work/jgdj_II/library_zhy_circlemenu/src/main/java/library/zhy/circlemenu/CircleMenuLayout.java" />
-      <jump line="28" column="27" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/view/activity/PaymentMenuActivity.java" />
-      <jump line="180" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" />
-      <jump line="10" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_online_paymentmenu.xml" />
       <jump line="0" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_online_paymentmenu.xml" />
       <jump line="12" column="4" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_title_bar.xml" />
       <jump line="26" column="54" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
@@ -1001,46 +1039,50 @@
       <jump line="10" column="29" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/news/presentation/model/InfoModel.java" />
       <jump line="28" column="7" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/code/WeVar.java" />
       <jump line="10" column="22" filename="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/code/WeVar.java" />
+      <jump line="51" column="32" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/LocationPlugin.java" />
+      <jump line="98" column="31" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/fragment/H5Fragment.java" />
+      <jump line="632" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/fragment/H5Fragment.java" />
+      <jump line="23" column="8" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/PluginFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWV0aG9kU3BlYy5tZXRob2RCdWlsZGVyKCJnZXRJbnN0YW5jZSIpCiAgICAgICAgICAgICAgICAuYWRkSmF2YWRvYygiYnVpbGQgYSBub3JtYWwgc2luZ2xldG9uIikKICAgICAgICAgICAgICAgIC5hZGRNb2RpZmllcnMoTW9kaWZpZXIuUFVCTElDLCBNb2RpZmllci5TVEFUSUMpCiAgICAgICAgICAgICAgICAucmV0dXJucyhjbGF6ek5hbWUpCiAgICAgICAgICAgICAgICAuYmVnaW5Db250cm9sRmxvdygiaWYoJE49PW51bGwpIiwgaW5zdGFuY2UpCiAgICAgICAgICAgICAgICAuYmVnaW5Db250cm9sRmxvdygic3luY2hyb25pemVkKCRULmNsYXNzKSIsIGNsYXp6TmFtZSkKICAgICAgICAgICAgICAgIC5iZWdpbkNvbnRyb2xGbG93KCJpZigkTj09bnVsbCkiLCBpbnN0YW5jZSkKICAgICAgICAgICAgICAgIC5hZGRTdGF0ZW1lbnQoIiROPW5ldyAkVCgpIiwgaW5zdGFuY2UsIGNsYXp6TmFtZSkKICAgICAgICAgICAgICAgIC5lbmRDb250cm9sRmxvdygpCiAgICAgICAgICAgICAgICAuZW5kQ29udHJvbEZsb3coKQogICAgICAgICAgICAgICAgLmVuZENvbnRyb2xGbG93KCkKICAgICAgICAgICAgICAgIC5hZGRDb2RlKGJsb2NrKQogICAgICAgICAgICAgICAgLmFkZFN0YXRlbWVudCgicmV0dXJuICROIiwgaW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJUGx1Z2luPiBsaXN0PXVyaVZhci5yZXNvbHZlKDApOwogICAgICAgICAgICBmb3IoSVBsdWdpbiBwbHVnaW46bGlzdCl7CiAgICAgICAgICAgICAgICBwbHVnaW4ub25DcmVhdGUoZ2V0QWN0aXZpdHkoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>mDatabindingClz</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWV0aG9kU3BlYy5tZXRob2RCdWlsZGVyKCJnZXRJbnN0YW5jZSIpCiAgICAgICAgICAgICAgICAuYWRkSmF2YWRvYygiYnVpbGQgYSBub3JtYWwgc2luZ2xldG9uIikKICAgICAgICAgICAgICAgIC5hZGRNb2RpZmllcnMoTW9kaWZpZXIuUFVCTElDLCBNb2RpZmllci5TVEFUSUMpCiAgICAgICAgICAgICAgICAucmV0dXJucyhjbGF6ek5hbWUpCiAgICAgICAgICAgICAgICAuYmVnaW5Db250cm9sRmxvdygiaWYoJE49PW51bGwpIiwgaW5zdGFuY2UpCiAgICAgICAgICAgICAgICAuYmVnaW5Db250cm9sRmxvdygic3luY2hyb25pemVkKCRULmNsYXNzKSIsIGNsYXp6TmFtZSkKICAgICAgICAgICAgICAgIC5iZWdpbkNvbnRyb2xGbG93KCJpZigkTj09bnVsbCkiLCBpbnN0YW5jZSkKICAgICAgICAgICAgICAgIC5hZGRTdGF0ZW1lbnQoIiROPW5ldyAkVCgpIiwgaW5zdGFuY2UsIGNsYXp6TmFtZSkKICAgICAgICAgICAgICAgIC5lbmRDb250cm9sRmxvdygpCiAgICAgICAgICAgICAgICAuZW5kQ29udHJvbEZsb3coKQogICAgICAgICAgICAgICAgLmVuZENvbnRyb2xGbG93KCkKICAgICAgICAgICAgICAgIC5hZGRDb2RlKGJsb2NrKQogICAgICAgICAgICAgICAgLmFkZFN0YXRlbWVudCgicmV0dXJuICROIiwgaW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PElQbHVnaW4+IGxpc3Q9bVZhci5yZXNvbHZlKG1Nb2RzKTsKICAgICAgICBmb3IoSVBsdWdpbiBwbHVnaW46bGlzdCl7CiAgICAgICAgICAgIHBsdWdpbi5vbkNyZWF0ZShhY3Rpdml0eSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b0ZpZWxkU3BlYygpLnRvQnVpbGRlcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJUGx1Z2luPiBsaXN0PXVyaVZhci5yZXNvbHZlKDApOwogICAgICAgICAgICBmb3IoSVBsdWdpbiBwbHVnaW46bGlzdCl7CiAgICAgICAgICAgICAgICBwbHVnaW4ub25DcmVhdGUoZ2V0QWN0aXZpdHkoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRTdGF0ZW1lbnQoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3ZUNsYXNzLmNvbmR1Y3RNZXRob2QoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmR1Y3RNZXRob2QoKXsKICAgICAgICB0aGlzLndlQmxvY2suY29uZHVjdCgpOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmR1Y3QoKXsKICAgICAgICB3ZU1ldGhvZE1hcC5wdXQobWV0aG9kTmFtZSwgbVdlTWV0aG9kKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtQnVpbGRlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtQnVpbGRlci5jbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoTW9kaWZpZXIuUFJJVkFURSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>d 3 5</text>
