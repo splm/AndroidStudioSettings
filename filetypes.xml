@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="CommonConfig" type="CLASS" />
-      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
