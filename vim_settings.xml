@@ -283,6 +283,9 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" timestamp="1512353080098">
+        <mark key="'" line="228" column="0" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_paid_list.xml" timestamp="1495096545822">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="39" column="35" />
@@ -943,11 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_online_paymentmenu.xml" />
-      <jump line="12" column="4" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/layout_title_bar.xml" />
-      <jump line="26" column="54" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
-      <jump line="0" column="0" filename="E:/caodi/work/ComponetLibDemo/app/src/main/res/layout/activity_main.xml" />
-      <jump line="37" column="29" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/paidlist_item.xml" />
       <jump line="10" column="17" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PaidListItemModel.java" />
       <jump line="36" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PaidListItemModel.java" />
       <jump line="48" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/model/PaidListItemModel.java" />
@@ -1043,6 +1041,11 @@
       <jump line="98" column="31" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/fragment/H5Fragment.java" />
       <jump line="632" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/fragment/H5Fragment.java" />
       <jump line="23" column="8" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/utils/PluginFactory.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" />
+      <jump line="228" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
