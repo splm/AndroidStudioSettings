@@ -44,6 +44,12 @@
         <mark key="]" line="444" column="0" />
         <mark key="." line="444" column="0" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/H5WeWebviewClient.java" timestamp="1515982019928">
+        <mark key="[" line="117" column="91" />
+        <mark key="]" line="118" column="26" />
+        <mark key="." line="118" column="26" />
+        <mark key="^" line="118" column="26" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/factory/PaymentFactoryImpl.java" timestamp="1499222471762">
         <mark key="[" line="9" column="69" />
         <mark key="]" line="9" column="44" />
@@ -192,6 +198,12 @@
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/adpater/MyCommonRecyclerAdapter.java" timestamp="1492650478819">
         <mark key="[" line="16" column="4" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" timestamp="1515979935963">
+        <mark key="'" line="959" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" timestamp="1494560896647">
         <mark key="[" line="208" column="19" />
         <mark key="]" line="212" column="48" />
@@ -216,6 +228,7 @@
         <mark key="^" line="89" column="50" />
         <mark key="." line="89" column="50" />
       </file>
+      <file name="E:/caodi/work/H5Container/app/src/main/java/com/jc/android/app/h5preview/main/presentation/view/activity/MainActivity.java" timestamp="1515981324711" />
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/TestViewModel.java" timestamp="1492738884755">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="32" />
@@ -237,7 +250,7 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/activity/WebContainerActivity.java" timestamp="1513046268200">
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/activity/WebContainerActivity.java" timestamp="1515981579407">
         <mark key="[" line="66" column="20" />
       </file>
       <file name="E:/caodi/work/CustomTest/app/src/main/res/layout/activity_demo.xml" timestamp="1492074248976">
@@ -583,10 +596,15 @@
         <mark key="^" line="57" column="9" />
         <mark key="." line="57" column="9" />
       </file>
-      <file name="E:/caodi/work/H5Container/app/src/main/java/com/jc/android/app/h5preview/main/presentation/view/application/H5Application.java" timestamp="1515467307576">
+      <file name="E:/caodi/work/H5Container/app/src/main/java/com/jc/android/app/h5preview/main/presentation/view/application/H5Application.java" timestamp="1515980757247">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="E:/caodi/work/H5Container/app/src/main/java/com/jc/android/app/h5preview/main/presentation/view/activity/JcmSplashActivity.java" timestamp="1515981643142">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="E:/caodi/work/MyDevelopment/app/src/main/aidl/component/splm/me/mydevelopment/IMyAidlInterface.aidl" timestamp="1495421650708">
         <mark key="[" line="11" column="44" />
@@ -653,7 +671,7 @@
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/UI/activity/AbsOverrideAction.java" timestamp="1499738719472">
         <mark key="[" line="13" column="5" />
       </file>
-      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/config/ConfigDetails.java" timestamp="1515465517651">
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/config/ConfigDetails.java" timestamp="1515981811084">
         <mark key="'" line="11" column="21" />
         <mark key="[" line="9" column="34" />
         <mark key="]" line="13" column="50" />
@@ -864,6 +882,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/WeWebviewCache.java" timestamp="1515981790833" />
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
         <mark key="[" line="60" column="10" />
         <mark key="]" line="73" column="10" />
@@ -981,8 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidListViewModel.java" />
-      <jump line="21" column="74" filename="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/PaidListViewModel.java" />
       <jump line="185" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" />
       <jump line="14" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/paidlist_title.xml" />
       <jump line="50" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_unpay.xml" />
@@ -1081,46 +1098,49 @@
       <jump line="90" column="4" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/component/webview/WeWebview.java" />
       <jump line="271" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/component/webview/WeWebview.java" />
       <jump line="11" column="21" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/config/ConfigDetails.java" />
+      <jump line="245" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" />
+      <jump line="960" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybAo=</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>WebContainerActivity</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="4">
-        <text>details</text>
+        <text>URL newUrl = new URL(url);
+                    HttpURLConnection connection = (HttpURLConnection) newUrl.openConnection();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KEpjbVNwbGFzaEFjdGl2aXR5LnRoaXMsIG1haW4uY2xhc3MpKTsKICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWdEZXRhaWxzIGRldGFpbHM9bmV3IENvbmZpZ0RldGFpbHMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudXJsKHNob3dNYWluVXJsKCkpCiAgICAgICAgICAgICAgICAuaXNBbGxvd1ByZUxvYWQodHJ1ZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3LmdldAo=</text>
+        <text encoding="base64">aW1wb3J0IG9raHR0cDMuaW50ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3Lgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlsczsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5MT0xMSVBPUCkKICAgIHByaXZhdGUgdm9pZCBvbkFjdGl2aXR5UmVzdWx0QWJvdmVMKGludCByZXF1ZXN0Q29kZSwgaW50IHJlc3VsdENvZGUsIEludGVudCBpbnRlbnQpIHsKICAgICAgICBpZiAocmVxdWVzdENvZGUgIT0gRklMRV9DSE9PU0VSX1JFU1VMVF9DT0RFIHx8IHVwbG9hZE1lc3NhZ2VBYm92ZUwgPT0gbnVsbCkKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIGlmIChyZXN1bHRDb2RlID09IEFjdGl2aXR5LlJFU1VMVF9PSykgewogICAgICAgICAgICBtV2ViVmlld0NvbnRhaW5lci5nZXRXZWJDaHJvbWVDbGllbnQoKS5hc1ZpZXdSZXN1bWVBYm92ZUwoaW50ZW50KTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25maWdEZXRhaWxzIGRldGFpbHM9bmV3IENvbmZpZ0RldGFpbHMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudXJsKHNob3dNYWluVXJsKCkpCiAgICAgICAgICAgICAgICAuaXNBbGxvd1ByZUxvYWQodHJ1ZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFsdWVDYWxsYmFjazxVcmk+IHVwbG9hZE1lc3NhZ2U7CiAgICBwcml2YXRlIFZhbHVlQ2FsbGJhY2s8VXJpW10+IHVwbG9hZE1lc3NhZ2VBYm92ZUw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3LmdldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW1hZ2VWaWV3IGltYWdlX2Vycm9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>d 3 5</text>
