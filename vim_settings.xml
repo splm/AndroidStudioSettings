@@ -21,6 +21,12 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
+      <file name="E:/caodi/work/WeMyFileManager/app/src/main/java/me/splm/app/wemyfilemanager/MainActivity.java" timestamp="1528338187718">
+        <mark key="[" line="23" column="56" />
+        <mark key="]" line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/binding/BindingMarker.java" timestamp="1492741308597">
         <mark key="[" line="10" column="81" />
       </file>
@@ -67,6 +73,12 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="E:/caodi/work/WeMyFileManager/wefilesmanager/src/main/res/layout/activity_files_index.xml" timestamp="1528337919016">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="E:/caodi/work/BaseLibDemo/lib-weprocessor/src/main/java/com/jc/android/processor/FeatureProcessor.java" timestamp="1507861660240">
         <mark key="[" line="33" column="46" />
@@ -177,6 +189,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="E:/caodi/work/WeMyFileManager/wefilesmanager/src/main/java/me/splm/app/wefilesmanager/UI/FilesIndexActivity.java" timestamp="1528337928485">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="10" column="20" />
+      </file>
       <file name="E:/caodi/work/TestPay/payment.base.jc/src/main/java/me/splm/app/paymentbasejc/raw/impl/CCBPaymentImpl.java" timestamp="1499913212692">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="36" column="32" />
@@ -228,7 +246,6 @@
         <mark key="^" line="89" column="50" />
         <mark key="." line="89" column="50" />
       </file>
-      <file name="E:/caodi/work/H5Container/app/src/main/java/com/jc/android/app/h5preview/main/presentation/view/activity/MainActivity.java" timestamp="1515981324711" />
       <file name="E:/caodi/work/ComponetLibDemo/app/src/main/java/component/splm/me/componetlibdemo/viewmodel/TestViewModel.java" timestamp="1492738884755">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="32" />
@@ -298,9 +315,6 @@
         <mark key="]" line="39" column="15" />
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jc.android/jc-jsbridge/1.0.4/8e88613a979fdd0cdec3e662a11fc8aad679dc2b/jc-jsbridge-1.0.4-sources.jar!/com/github/lzyzsd/jsbridge/BridgeWebView.java" timestamp="1512353080098">
-        <mark key="'" line="228" column="0" />
       </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/res/layout/fragment_paid_list.xml" timestamp="1495096545822">
         <mark key="[" line="35" column="8" />
@@ -373,6 +387,11 @@
         <mark key="]" line="11" column="92" />
         <mark key="^" line="11" column="92" />
         <mark key="." line="11" column="92" />
+      </file>
+      <file name="E:/caodi/work/WeMyFileManager/app/src/main/res/layout/activity_main.xml" timestamp="1528338009934">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
       </file>
       <file name="E:/caodi/soft/Android/sdk/sources/android-25/android/widget/Space.java" timestamp="1497325942387">
         <mark key="[" line="27" column="19" />
@@ -505,6 +524,9 @@
         <mark key="]" line="20" column="88" />
         <mark key="." line="20" column="88" />
         <mark key="^" line="20" column="88" />
+      </file>
+      <file name="E:/caodi/work/WeMyFileManager/app/build.gradle" timestamp="1528338126725">
+        <mark key="[" line="26" column="85" />
       </file>
       <file name="E:/caodi/work/TestPay/app/src/main/java/me/splm/app/testpay/MainActivity.java" timestamp="1506740635525">
         <mark key="[" line="24" column="73" />
@@ -882,7 +904,6 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/WeWebviewCache.java" timestamp="1515981790833" />
       <file name="E:/caodi/work/ComponetLibDemo/adapter/src/main/java/component/splm/me/adapter/ListAdapter.java" timestamp="1493027923066">
         <mark key="[" line="60" column="10" />
         <mark key="]" line="73" column="10" />
@@ -1102,11 +1123,11 @@
       <jump line="960" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybAo=</text>
+      <register name="&quot;" type="4">
+        <text>TextView</text>
       </register>
       <register name="-" type="4">
-        <text>WebContainerActivity</text>
+        <text>TextView</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
