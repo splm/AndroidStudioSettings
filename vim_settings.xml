@@ -68,6 +68,9 @@
       <file name="E:/caodi/work/ComponetLibDemo/settings.gradle" timestamp="1492503538830">
         <mark key="[" line="0" column="25" />
       </file>
+      <file name="E:/caodi/work/WeMyFileManager/wefilesmanager/build.gradle" timestamp="1528877814132">
+        <mark key="[" line="8" column="24" />
+      </file>
       <file name="E:/caodi/work/AutoPunchout/app/src/main/aidl/me/splm/app/autopunchout/ITransDataaidlInterface.aidl" timestamp="1497584985231">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="13" column="26" />
@@ -525,8 +528,8 @@
         <mark key="." line="20" column="88" />
         <mark key="^" line="20" column="88" />
       </file>
-      <file name="E:/caodi/work/WeMyFileManager/app/build.gradle" timestamp="1528338126725">
-        <mark key="[" line="26" column="85" />
+      <file name="E:/caodi/work/WeMyFileManager/app/build.gradle" timestamp="1528877902716">
+        <mark key="[" line="6" column="24" />
       </file>
       <file name="E:/caodi/work/TestPay/app/src/main/java/me/splm/app/testpay/MainActivity.java" timestamp="1506740635525">
         <mark key="[" line="24" column="73" />
@@ -683,6 +686,12 @@
         <mark key="]" line="25" column="10" />
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
+      </file>
+      <file name="E:/caodi/work/WeMyFileManager/wefilesmanager/src/main/java/me/splm/app/wefilesmanager/utils/MemorySpaceCheck.java" timestamp="1528878005237">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/caodi/work/BaseLibDemo/app/src/main/java/me/splm/app/baselibdemo/BaseActivity.java" timestamp="1507861348794">
         <mark key="[" line="6" column="16" />
