@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="select_open_type" type="XML" />
     </extensionMap>
   </component>
 </application>
