@@ -337,6 +337,13 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="24" column="5" />
       </file>
+      <file name="E:/caodi/work/WeMyFileManager/wefilesmanager/src/main/java/me/splm/app/wefilesmanager/business/view/activity/BaseActivity.java" timestamp="1532056389930">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="E:/caodi/work/jgdj_II/app/src/main/java/com/jc/android/jgdjII/payment/presentation/viewmodel/UnPayRecordViewModel.java" timestamp="1499306806864">
         <mark key="[" line="268" column="48" />
         <mark key="]" line="311" column="5" />
@@ -1030,7 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" />
       <jump line="14" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/paidlist_title.xml" />
       <jump line="50" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/res/layout/activity_unpay.xml" />
       <jump line="191" column="0" filename="E:/caodi/work/jgdj_II/app/src/main/AndroidManifest.xml" />
@@ -1130,10 +1136,12 @@
       <jump line="11" column="21" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/config/ConfigDetails.java" />
       <jump line="245" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" />
       <jump line="960" column="0" filename="E:/caodi/work/H5Container/h5container/src/main/java/com/jc/android/h5container/presentation/components/webview/cache/DiskLruCache.java" />
+      <jump line="25" column="0" filename="E:/caodi/work/WeMyFileManager/wefilesmanager/src/main/java/me/splm/app/wefilesmanager/business/view/activity/BaseActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TextView</text>
+        <text>LayoutInflater inflater=LayoutInflater.from(this);
+        View childView=inflater.inflate(layoutResID,null);</text>
       </register>
       <register name="-" type="4">
         <text>TextView</text>
@@ -1145,32 +1153,33 @@
         <text>URL newUrl = new URL(url);
                     HttpURLConnection connection = (HttpURLConnection) newUrl.openConnection();</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybAo=</text>
+      <register name="1" type="4">
+        <text>LayoutInflater inflater=LayoutInflater.from(this);
+        View childView=inflater.inflate(layoutResID,null);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KEpjbVNwbGFzaEFjdGl2aXR5LnRoaXMsIG1haW4uY2xhc3MpKTsKICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KEpjbVNwbGFzaEFjdGl2aXR5LnRoaXMsIG1haW4uY2xhc3MpKTsKICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9raHR0cDMuaW50ZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlsczsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9raHR0cDMuaW50ZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGV0YWlsczsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWdEZXRhaWxzIGRldGFpbHM9bmV3IENvbmZpZ0RldGFpbHMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudXJsKHNob3dNYWluVXJsKCkpCiAgICAgICAgICAgICAgICAuaXNBbGxvd1ByZUxvYWQodHJ1ZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3LmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBDb25maWdEZXRhaWxzIGRldGFpbHM9bmV3IENvbmZpZ0RldGFpbHMuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudXJsKHNob3dNYWluVXJsKCkpCiAgICAgICAgICAgICAgICAuaXNBbGxvd1ByZUxvYWQodHJ1ZSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1XZWJ2aWV3LmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>d 3 5</text>
