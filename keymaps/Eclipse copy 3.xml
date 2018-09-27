@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy 3" parent="Eclipse">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
