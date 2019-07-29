@@ -8,6 +8,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="wb" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
+      <mapping pattern="attr" type="XML" />
       <mapping pattern="select_open_type" type="XML" />
     </extensionMap>
   </component>
