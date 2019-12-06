@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy 4" parent="Eclipse">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
