@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fab_label_background" type="XML" />
+      <mapping pattern="attr" type="XML" />
       <mapping pattern="in_right_left" type="XML" />
     </extensionMap>
   </component>
