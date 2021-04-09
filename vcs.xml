@@ -6,6 +6,10 @@
           <option name="url" value="http://192.168.4.10:30000" />
           <option name="userName" value="caodi" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.jiaxianghudong.com" />
+          <option name="userName" value="caodi@jixiang.cn" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
