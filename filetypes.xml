@@ -5,7 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping pattern="in_right_left" type="XML" />
     </extensionMap>
   </component>
