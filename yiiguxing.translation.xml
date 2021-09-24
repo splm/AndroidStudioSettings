@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RECOGNIZE" />
+      <item value="ECOGNIZED" />
       <item value="wire" />
       <item value="embedded" />
       <item value="truncated" />
